@@ -1,0 +1,1471 @@
+EmployeeId,Department,JobRole,Age,YearsAtCompany,MonthlyIncome,OverTime,WorkLifeBalance,JobSatisfaction,AttritionProbability,RiskLevel,Recommendations
+14,Research & Development,Research Director,42,1,15992,No,3,4,70.0,High,Enhanced onboarding & mentorship
+1006,Sales,Sales Representative,25,1,1118,Yes,3,4,69.0,High,Reduce overtime; Review compensation; Enhanced onboarding & mentorship
+205,Research & Development,Laboratory Technician,53,2,2450,No,3,4,69.0,High,Review compensation
+1260,Research & Development,Research Director,49,3,18665,Yes,3,1,69.0,High,Reduce overtime; Address job satisfaction
+544,Research & Development,Laboratory Technician,49,4,4284,No,3,1,68.0,High,Address job satisfaction
+1287,Sales,Sales Executive,30,6,6696,No,2,1,68.0,High,Improve work-life balance; Address job satisfaction
+1144,Research & Development,Manager,45,0,18061,No,3,2,68.0,High,Address job satisfaction; Enhanced onboarding & mentorship
+515,Research & Development,Healthcare Representative,50,4,10496,No,3,4,68.0,High,Monitor regularly
+585,Research & Development,Laboratory Technician,43,8,2455,No,3,4,67.0,High,Review compensation
+628,Sales,Sales Representative,31,1,1359,No,3,3,67.0,High,Review compensation; Enhanced onboarding & mentorship
+270,Research & Development,Manufacturing Director,51,4,10650,No,3,4,67.0,High,Monitor regularly
+1021,Sales,Sales Representative,18,0,1878,Yes,3,2,67.0,High,Reduce overtime; Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+720,Sales,Sales Executive,50,2,9208,No,3,4,67.0,High,Monitor regularly
+580,Sales,Sales Representative,31,3,2302,Yes,4,2,67.0,High,Reduce overtime; Review compensation; Address job satisfaction
+1431,Sales,Sales Representative,31,1,2785,No,4,4,67.0,High,Review compensation; Enhanced onboarding & mentorship
+49,Research & Development,Manufacturing Director,38,9,9526,No,3,3,67.0,High,Monitor regularly
+655,Research & Development,Healthcare Representative,51,13,7484,No,2,1,67.0,High,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+774,Research & Development,Laboratory Technician,26,1,2340,Yes,1,4,67.0,High,Reduce overtime; Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+341,Research & Development,Manufacturing Director,44,2,10209,Yes,2,3,67.0,High,Reduce overtime; Improve work-life balance
+497,Research & Development,Laboratory Technician,20,1,2926,Yes,3,4,67.0,High,Reduce overtime; Review compensation; Enhanced onboarding & mentorship
+1354,Sales,Sales Representative,21,3,2174,Yes,3,2,67.0,High,Reduce overtime; Review compensation; Address job satisfaction
+1275,Research & Development,Manufacturing Director,43,8,10820,No,3,1,67.0,High,Address job satisfaction
+951,Sales,Sales Representative,20,2,2323,Yes,3,4,67.0,High,Reduce overtime; Review compensation
+732,Research & Development,Manufacturing Director,31,5,5238,No,2,4,67.0,High,Improve work-life balance
+1097,Sales,Sales Representative,29,1,1091,No,3,1,67.0,High,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+1470,Sales,Sales Representative,19,0,2325,No,4,1,66.0,High,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+698,Sales,Sales Representative,18,0,1569,Yes,4,4,66.0,High,Reduce overtime; Review compensation; Enhanced onboarding & mentorship
+397,Research & Development,Laboratory Technician,56,4,2587,No,3,4,66.0,High,Review compensation
+1031,Research & Development,Manufacturing Director,39,21,10880,Yes,3,1,66.0,High,Reduce overtime; Address job satisfaction
+976,Research & Development,Laboratory Technician,32,1,2795,Yes,1,4,66.0,High,Reduce overtime; Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+549,Research & Development,Laboratory Technician,28,4,2028,Yes,3,3,66.0,High,Reduce overtime; Review compensation
+810,Research & Development,Manager,49,8,15379,No,3,3,66.0,High,Monitor regularly
+1385,Sales,Sales Representative,47,0,2976,No,3,3,66.0,High,Review compensation; Enhanced onboarding & mentorship
+1217,Sales,Sales Representative,30,1,2033,No,4,1,66.0,High,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+1243,Research & Development,Laboratory Technician,34,9,6074,Yes,3,3,66.0,High,Reduce overtime
+1229,Research & Development,Laboratory Technician,27,5,2379,Yes,2,4,66.0,High,Reduce overtime; Review compensation; Improve work-life balance
+1225,Research & Development,Manager,39,6,19431,No,2,4,66.0,High,Improve work-life balance
+1276,Research & Development,Laboratory Technician,32,6,2837,No,3,2,66.0,High,Review compensation; Address job satisfaction; Consider promotion/career development
+1359,Research & Development,Laboratory Technician,26,1,2293,No,2,3,66.0,High,Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+101,Research & Development,Laboratory Technician,21,2,2625,No,1,3,66.0,High,Review compensation; Improve work-life balance
+1451,Research & Development,Laboratory Technician,51,7,2838,No,2,3,66.0,High,Review compensation; Improve work-life balance; Consider promotion/career development
+1463,Sales,Sales Executive,41,2,7082,Yes,3,3,66.0,High,Reduce overtime
+12,Research & Development,Laboratory Technician,20,1,2973,No,3,1,65.0,High,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+1465,Research & Development,Healthcare Representative,28,10,8722,No,2,1,65.0,High,Improve work-life balance; Address job satisfaction
+616,Research & Development,Laboratory Technician,28,0,2561,No,2,1,65.0,High,Review compensation; Improve work-life balance; Address job satisfaction; Enhanced onboarding & mentorship
+9,Research & Development,Laboratory Technician,36,8,2153,No,3,4,65.0,High,Review compensation
+1326,Sales,Sales Representative,31,2,2789,No,2,2,65.0,High,Review compensation; Improve work-life balance; Address job satisfaction
+907,Research & Development,Manufacturing Director,55,3,10976,No,3,2,65.0,High,Address job satisfaction
+730,Research & Development,Manufacturing Director,36,6,6499,No,3,2,65.0,High,Address job satisfaction
+853,Sales,Sales Representative,23,1,1790,No,2,1,65.0,High,Review compensation; Improve work-life balance; Address job satisfaction; Enhanced onboarding & mentorship
+667,Research & Development,Research Scientist,29,3,2201,No,3,4,65.0,High,Review compensation
+367,Research & Development,Healthcare Representative,34,6,7756,No,2,4,65.0,High,Improve work-life balance
+816,Sales,Manager,46,2,18947,No,2,1,65.0,High,Improve work-life balance; Address job satisfaction
+819,Sales,Sales Executive,41,8,9355,No,3,2,65.0,High,Address job satisfaction; Consider promotion/career development
+752,Research & Development,Laboratory Technician,28,4,2154,Yes,2,3,65.0,High,Reduce overtime; Review compensation; Improve work-life balance
+1360,Research & Development,Laboratory Technician,38,4,2440,No,3,2,65.0,High,Review compensation; Address job satisfaction
+441,Research & Development,Laboratory Technician,32,6,2176,No,3,1,65.0,High,Review compensation; Address job satisfaction
+895,Research & Development,Manufacturing Director,35,16,8095,No,3,2,65.0,High,Address job satisfaction
+1357,Sales,Sales Representative,34,4,2231,No,3,3,65.0,High,Review compensation
+645,Research & Development,Laboratory Technician,42,1,4272,No,3,4,65.0,High,Enhanced onboarding & mentorship
+1215,Research & Development,Research Scientist,29,1,2439,Yes,2,4,65.0,High,Reduce overtime; Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+1181,Sales,Sales Executive,40,1,13194,Yes,2,2,65.0,High,Reduce overtime; Improve work-life balance; Address job satisfaction; Enhanced onboarding & mentorship
+856,Research & Development,Laboratory Technician,36,8,2088,No,2,2,65.0,High,Review compensation; Improve work-life balance; Address job satisfaction; Consider promotion/career development
+855,Research & Development,Manufacturing Director,35,2,9362,No,3,4,65.0,High,Monitor regularly
+171,Research & Development,Healthcare Representative,51,7,13734,No,3,2,65.0,High,Address job satisfaction
+629,Sales,Sales Executive,43,2,6804,No,3,4,65.0,High,Monitor regularly
+712,Research & Development,Laboratory Technician,38,10,2406,No,3,4,65.0,High,Review compensation; Consider promotion/career development
+176,Research & Development,Laboratory Technician,30,3,2422,No,3,2,65.0,High,Review compensation; Address job satisfaction
+104,Sales,Sales Executive,27,7,9981,No,3,3,64.0,High,Monitor regularly
+916,Sales,Sales Executive,59,4,5473,No,2,3,64.0,High,Improve work-life balance
+1076,Research & Development,Laboratory Technician,48,1,5381,Yes,3,3,64.0,High,Reduce overtime; Enhanced onboarding & mentorship
+530,Research & Development,Laboratory Technician,32,1,1393,No,3,2,64.0,High,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+1049,Research & Development,Laboratory Technician,54,1,3780,No,3,3,64.0,High,Enhanced onboarding & mentorship
+337,Sales,Sales Executive,32,9,8998,No,3,4,64.0,High,Monitor regularly
+1096,Research & Development,Healthcare Representative,52,8,10445,No,3,2,64.0,High,Address job satisfaction; Consider promotion/career development
+1333,Research & Development,Healthcare Representative,31,1,9824,No,3,3,64.0,High,Enhanced onboarding & mentorship
+385,Research & Development,Laboratory Technician,31,5,3479,No,4,2,64.0,High,Address job satisfaction
+745,Research & Development,Healthcare Representative,29,8,7553,Yes,3,4,64.0,High,Reduce overtime; Consider promotion/career development
+1139,Research & Development,Laboratory Technician,40,4,2166,Yes,1,1,64.0,High,Reduce overtime; Review compensation; Improve work-life balance; Address job satisfaction
+1166,Research & Development,Healthcare Representative,49,7,13964,Yes,3,3,64.0,High,Reduce overtime
+898,Research & Development,Laboratory Technician,29,3,2062,No,3,1,64.0,High,Review compensation; Address job satisfaction
+1294,Sales,Sales Executive,43,7,5675,No,3,4,64.0,High,Consider promotion/career development
+524,Research & Development,Laboratory Technician,40,5,2018,No,1,1,64.0,High,Review compensation; Improve work-life balance; Address job satisfaction
+772,Research & Development,Laboratory Technician,36,4,2013,No,3,2,64.0,High,Review compensation; Address job satisfaction
+1124,Research & Development,Research Director,31,3,16422,No,4,2,64.0,High,Address job satisfaction
+1110,Research & Development,Laboratory Technician,32,7,3068,No,2,4,64.0,High,Improve work-life balance
+1117,Research & Development,Laboratory Technician,18,0,1420,No,3,3,64.0,High,Review compensation; Enhanced onboarding & mentorship
+273,Research & Development,Laboratory Technician,23,4,2272,No,3,3,64.0,High,Review compensation
+677,Research & Development,Laboratory Technician,35,6,4425,No,3,2,64.0,High,Address job satisfaction
+607,Sales,Sales Executive,25,6,6180,No,2,4,64.0,High,Improve work-life balance
+457,Sales,Sales Executive,27,9,8726,No,3,3,64.0,High,Monitor regularly
+83,Research & Development,Laboratory Technician,47,2,2105,No,3,3,64.0,High,Review compensation
+844,Sales,Sales Executive,35,9,9069,No,2,1,64.0,High,Improve work-life balance; Address job satisfaction
+829,Research & Development,Manufacturing Director,40,4,7945,Yes,2,4,64.0,High,Reduce overtime; Improve work-life balance
+973,Human Resources,Manager,54,5,17328,Yes,3,4,64.0,High,Reduce overtime; Consider promotion/career development
+981,Research & Development,Laboratory Technician,36,11,2519,No,3,3,64.0,High,Review compensation
+1173,Sales,Sales Executive,31,10,5617,Yes,3,4,64.0,High,Reduce overtime
+234,Sales,Sales Executive,42,21,13758,Yes,2,1,64.0,High,Reduce overtime; Improve work-life balance; Address job satisfaction; Consider promotion/career development
+735,Sales,Sales Executive,36,9,9738,No,3,4,64.0,High,Monitor regularly
+215,Research & Development,Laboratory Technician,35,5,4230,No,3,3,64.0,High,Consider promotion/career development
+1213,Sales,Sales Executive,33,7,4682,No,2,4,64.0,High,Improve work-life balance
+1263,Sales,Sales Executive,51,4,10596,No,3,2,64.0,High,Address job satisfaction
+199,Research & Development,Laboratory Technician,21,1,1416,No,2,1,64.0,High,Review compensation; Improve work-life balance; Address job satisfaction; Enhanced onboarding & mentorship
+568,Research & Development,Research Scientist,30,1,2285,Yes,3,4,64.0,High,Reduce overtime; Review compensation; Enhanced onboarding & mentorship
+1241,Research & Development,Laboratory Technician,40,1,5094,No,3,3,64.0,High,Enhanced onboarding & mentorship
+155,Research & Development,Research Director,42,1,13191,Yes,3,1,64.0,High,Reduce overtime; Address job satisfaction; Enhanced onboarding & mentorship
+153,Sales,Manager,33,10,17444,No,3,3,64.0,High,Consider promotion/career development
+68,Research & Development,Laboratory Technician,38,2,2288,No,3,4,64.0,High,Review compensation
+1380,Research & Development,Research Scientist,22,0,2853,Yes,3,4,64.0,High,Reduce overtime; Review compensation; Enhanced onboarding & mentorship
+967,Sales,Sales Executive,28,7,6834,Yes,3,4,64.0,High,Reduce overtime
+407,Research & Development,Research Scientist,38,3,4317,Yes,3,3,64.0,High,Reduce overtime
+1251,Research & Development,Manager,50,5,19926,No,3,2,64.0,High,Address job satisfaction; Consider promotion/career development
+651,Research & Development,Laboratory Technician,19,1,1102,No,2,4,64.0,High,Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+54,Research & Development,Manufacturing Director,26,6,6397,No,1,2,64.0,High,Improve work-life balance; Address job satisfaction
+44,Sales,Sales Executive,32,10,6524,No,3,2,64.0,High,Address job satisfaction; Consider promotion/career development
+965,Research & Development,Laboratory Technician,22,2,3894,No,3,3,64.0,High,Monitor regularly
+1456,Sales,Sales Executive,40,5,9094,Yes,3,2,64.0,High,Reduce overtime; Address job satisfaction
+102,Sales,Sales Representative,34,2,2351,No,2,3,64.0,High,Review compensation; Improve work-life balance
+883,Research & Development,Research Director,33,15,13458,Yes,3,4,64.0,High,Reduce overtime; Consider promotion/career development
+23,Sales,Sales Executive,41,14,6230,No,3,4,64.0,High,Monitor regularly
+1450,Research & Development,Research Scientist,34,3,2311,No,3,2,63.0,High,Review compensation; Address job satisfaction
+1353,Sales,Manager,41,1,13591,Yes,3,4,63.0,High,Reduce overtime; Enhanced onboarding & mentorship
+95,Research & Development,Manufacturing Director,34,10,9547,No,2,3,63.0,High,Improve work-life balance
+50,Sales,Sales Representative,21,3,3447,No,3,3,63.0,High,Monitor regularly
+98,Sales,Sales Executive,53,2,10448,Yes,2,1,63.0,High,Reduce overtime; Improve work-life balance; Address job satisfaction
+175,Research & Development,Manufacturing Director,31,4,4148,No,3,1,63.0,High,Address job satisfaction
+862,Research & Development,Research Scientist,32,4,2439,No,3,1,63.0,High,Review compensation; Address job satisfaction
+1278,Research & Development,Manufacturing Director,51,5,13142,No,2,2,63.0,High,Improve work-life balance; Address job satisfaction
+1235,Research & Development,Laboratory Technician,39,5,6782,No,2,2,63.0,High,Improve work-life balance; Address job satisfaction
+139,Sales,Sales Representative,37,9,2793,No,3,4,63.0,High,Review compensation; Consider promotion/career development
+140,Research & Development,Healthcare Representative,31,10,6812,No,3,1,63.0,High,Address job satisfaction
+687,Sales,Sales Executive,35,4,4614,Yes,2,3,63.0,High,Reduce overtime; Improve work-life balance
+920,Sales,Sales Executive,28,4,4898,No,3,1,63.0,High,Address job satisfaction
+714,Human Resources,Human Resources,27,1,2863,No,3,2,63.0,High,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+949,Research & Development,Laboratory Technician,24,0,3172,Yes,2,1,63.0,High,Reduce overtime; Improve work-life balance; Address job satisfaction; Enhanced onboarding & mentorship
+858,Research & Development,Manufacturing Director,59,5,13726,Yes,3,4,63.0,High,Reduce overtime; Consider promotion/career development
+722,Research & Development,Manufacturing Director,31,10,8943,No,3,3,63.0,High,Consider promotion/career development
+726,Research & Development,Research Scientist,30,5,2657,Yes,3,1,63.0,High,Reduce overtime; Review compensation; Address job satisfaction
+172,Research & Development,Laboratory Technician,32,3,3730,Yes,1,3,63.0,High,Reduce overtime; Improve work-life balance
+169,Sales,Sales Executive,44,1,4768,No,2,3,63.0,High,Improve work-life balance; Enhanced onboarding & mentorship
+766,Research & Development,Healthcare Representative,35,11,8606,No,1,2,63.0,High,Improve work-life balance; Address job satisfaction
+1125,Sales,Sales Executive,33,5,9998,No,4,4,63.0,High,Monitor regularly
+235,Research & Development,Research Scientist,34,5,2553,No,3,4,63.0,High,Review compensation
+219,Research & Development,Healthcare Representative,43,5,5562,No,2,4,63.0,High,Improve work-life balance
+1171,Research & Development,Laboratory Technician,38,1,1702,Yes,3,4,63.0,High,Reduce overtime; Review compensation; Enhanced onboarding & mentorship
+1170,Sales,Sales Executive,40,18,10475,Yes,3,1,63.0,High,Reduce overtime; Address job satisfaction
+386,Sales,Sales Executive,38,1,6861,Yes,3,4,63.0,High,Reduce overtime; Enhanced onboarding & mentorship
+1161,Research & Development,Laboratory Technician,35,3,2450,No,3,1,63.0,High,Review compensation; Address job satisfaction
+995,Research & Development,Laboratory Technician,44,5,3708,No,3,3,63.0,High,Monitor regularly
+345,Sales,Sales Representative,37,5,2973,No,3,4,63.0,High,Review compensation
+366,Research & Development,Research Scientist,58,1,2479,No,3,3,63.0,High,Review compensation; Enhanced onboarding & mentorship
+371,Research & Development,Laboratory Technician,42,0,3968,No,3,3,63.0,High,Enhanced onboarding & mentorship
+370,Research & Development,Laboratory Technician,36,13,5914,No,4,2,63.0,High,Address job satisfaction
+1130,Research & Development,Laboratory Technician,24,6,2886,Yes,3,3,63.0,High,Reduce overtime; Review compensation
+1154,Sales,Sales Executive,47,7,4960,No,3,1,63.0,High,Address job satisfaction
+1151,Research & Development,Research Scientist,29,6,2058,No,2,3,63.0,High,Review compensation; Improve work-life balance
+545,Research & Development,Healthcare Representative,33,0,6388,Yes,3,3,63.0,High,Reduce overtime; Enhanced onboarding & mentorship
+364,Research & Development,Research Director,53,12,14275,No,3,4,63.0,High,Monitor regularly
+1140,Research & Development,Laboratory Technician,33,1,2496,No,3,4,63.0,High,Review compensation; Enhanced onboarding & mentorship
+456,Sales,Sales Executive,35,8,9582,Yes,3,1,63.0,High,Reduce overtime; Address job satisfaction; Consider promotion/career development
+979,Research & Development,Research Scientist,28,3,2080,No,2,1,63.0,High,Review compensation; Improve work-life balance; Address job satisfaction
+935,Research & Development,Manufacturing Director,36,11,7779,No,3,4,63.0,High,Monitor regularly
+741,Research & Development,Manager,55,9,16756,No,4,1,63.0,High,Address job satisfaction; Consider promotion/career development
+579,Sales,Sales Executive,46,9,5772,Yes,3,4,63.0,High,Reduce overtime
+558,Research & Development,Research Scientist,33,2,2313,Yes,3,2,63.0,High,Reduce overtime; Review compensation; Address job satisfaction
+1158,Research & Development,Manufacturing Director,37,6,7491,No,4,4,63.0,High,Monitor regularly
+475,Research & Development,Laboratory Technician,24,4,3597,No,3,2,63.0,High,Address job satisfaction
+132,Research & Development,Healthcare Representative,45,4,5399,No,3,3,63.0,High,Monitor regularly
+671,Research & Development,Research Scientist,27,4,2580,No,2,4,63.0,High,Review compensation; Improve work-life balance
+666,Sales,Sales Executive,35,5,4968,No,3,4,63.0,High,Monitor regularly
+461,Research & Development,Healthcare Representative,40,3,4876,No,1,4,63.0,High,Improve work-life balance
+1187,Research & Development,Laboratory Technician,19,1,1483,No,3,2,63.0,High,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+1203,Sales,Sales Executive,33,3,4302,No,3,2,63.0,High,Address job satisfaction
+195,Sales,Sales Executive,30,8,5304,No,2,4,63.0,High,Improve work-life balance; Consider promotion/career development
+1011,Sales,Sales Representative,29,3,2157,No,3,4,63.0,High,Review compensation
+1361,Research & Development,Laboratory Technician,48,1,2559,No,2,2,63.0,High,Review compensation; Improve work-life balance; Address job satisfaction; Enhanced onboarding & mentorship
+279,Sales,Manager,55,10,16835,No,3,2,63.0,High,Address job satisfaction; Consider promotion/career development
+763,Research & Development,Laboratory Technician,30,5,2720,No,3,4,63.0,High,Review compensation
+294,Sales,Sales Executive,27,4,4342,No,3,4,63.0,High,Monitor regularly
+284,Sales,Sales Executive,32,0,4648,No,4,4,63.0,High,Enhanced onboarding & mentorship
+125,Research & Development,Laboratory Technician,26,7,2867,No,2,1,63.0,High,Review compensation; Improve work-life balance; Address job satisfaction; Consider promotion/career development
+1334,Research & Development,Research Scientist,35,6,2559,No,2,1,63.0,High,Review compensation; Improve work-life balance; Address job satisfaction
+776,Research & Development,Research Scientist,42,2,2515,Yes,3,4,63.0,High,Reduce overtime; Review compensation
+1071,Research & Development,Manager,55,5,16659,Yes,3,4,63.0,High,Reduce overtime
+794,Human Resources,Human Resources,44,10,5743,Yes,3,4,63.0,High,Reduce overtime
+505,Sales,Sales Representative,19,0,1675,Yes,2,3,63.0,High,Reduce overtime; Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+1329,Sales,Sales Representative,45,8,6632,No,3,3,63.0,High,Monitor regularly
+1088,Research & Development,Laboratory Technician,30,12,4011,No,3,4,63.0,High,Monitor regularly
+908,Sales,Sales Executive,35,10,5813,Yes,3,4,63.0,High,Reduce overtime; Consider promotion/career development
+911,Sales,Sales Representative,38,1,2858,No,2,1,63.0,High,Review compensation; Improve work-life balance; Address job satisfaction; Enhanced onboarding & mentorship
+802,Sales,Sales Executive,47,5,6397,Yes,3,3,63.0,High,Reduce overtime
+468,Sales,Sales Executive,35,10,8789,No,4,3,63.0,High,Monitor regularly
+1013,Research & Development,Research Scientist,54,4,4869,No,2,3,63.0,High,Improve work-life balance
+1300,Research & Development,Manufacturing Director,36,16,5410,Yes,3,2,63.0,High,Reduce overtime; Address job satisfaction; Consider promotion/career development
+1041,Research & Development,Manufacturing Director,34,3,4033,No,2,3,63.0,High,Improve work-life balance
+1038,Research & Development,Laboratory Technician,28,2,3441,Yes,2,3,63.0,High,Reduce overtime; Improve work-life balance
+1046,Research & Development,Healthcare Representative,35,1,6540,No,3,2,63.0,High,Address job satisfaction; Enhanced onboarding & mentorship
+1003,Research & Development,Laboratory Technician,22,0,2871,No,3,4,63.0,High,Review compensation; Enhanced onboarding & mentorship
+872,Research & Development,Manufacturing Director,31,10,7446,No,3,2,63.0,High,Address job satisfaction; Consider promotion/career development
+1020,Sales,Sales Executive,29,5,5765,No,1,2,63.0,High,Improve work-life balance; Address job satisfaction
+427,Research & Development,Healthcare Representative,46,10,10673,Yes,2,1,63.0,High,Reduce overtime; Improve work-life balance; Address job satisfaction; Consider promotion/career development
+682,Sales,Sales Executive,33,5,8224,Yes,3,1,62.0,High,Reduce overtime; Address job satisfaction
+420,Research & Development,Research Scientist,32,10,3919,Yes,3,1,62.0,High,Reduce overtime; Address job satisfaction; Consider promotion/career development
+22,Research & Development,Manufacturing Director,40,20,13237,No,3,3,62.0,High,Consider promotion/career development
+960,Sales,Sales Executive,39,2,4127,No,3,4,62.0,High,Monitor regularly
+959,Sales,Sales Executive,38,1,7351,No,3,2,62.0,High,Address job satisfaction; Enhanced onboarding & mentorship
+442,Research & Development,Manufacturing Director,38,15,5980,Yes,3,1,62.0,High,Reduce overtime; Address job satisfaction; Consider promotion/career development
+1338,Research & Development,Manufacturing Director,38,8,5321,No,3,3,62.0,High,Consider promotion/career development
+694,Research & Development,Healthcare Representative,33,5,6949,No,3,4,62.0,High,Monitor regularly
+1269,Research & Development,Manufacturing Director,30,5,6091,No,3,4,62.0,High,Monitor regularly
+141,Research & Development,Research Director,48,1,18265,No,4,4,62.0,High,Enhanced onboarding & mentorship
+587,Sales,Sales Executive,60,18,10266,No,4,1,62.0,High,Address job satisfaction; Consider promotion/career development
+597,Human Resources,Human Resources,45,6,2177,No,3,2,62.0,High,Review compensation; Address job satisfaction
+1239,Research & Development,Manufacturing Director,37,1,4197,Yes,2,2,62.0,High,Reduce overtime; Improve work-life balance; Address job satisfaction; Enhanced onboarding & mentorship
+704,Sales,Sales Executive,29,11,7918,No,3,4,62.0,High,Consider promotion/career development
+921,Research & Development,Research Scientist,29,9,2362,No,1,1,62.0,High,Review compensation; Improve work-life balance; Address job satisfaction
+168,Sales,Manager,41,22,16015,No,3,2,62.0,High,Address job satisfaction
+398,Research & Development,Manufacturing Director,32,1,9679,No,3,4,62.0,High,Enhanced onboarding & mentorship
+58,Sales,Sales Executive,32,10,5396,No,2,4,62.0,High,Improve work-life balance
+1381,Research & Development,Manufacturing Director,35,7,6883,No,3,3,62.0,High,Monitor regularly
+861,Research & Development,Laboratory Technician,45,10,5769,Yes,3,1,62.0,High,Reduce overtime; Address job satisfaction
+727,Research & Development,Manufacturing Director,39,2,8376,No,3,2,62.0,High,Address job satisfaction
+1240,Research & Development,Laboratory Technician,20,2,3033,No,2,3,62.0,High,Improve work-life balance
+1347,Sales,Sales Executive,30,5,6577,No,3,3,62.0,High,Consider promotion/career development
+1350,Research & Development,Healthcare Representative,27,7,6811,No,1,1,62.0,High,Improve work-life balance; Address job satisfaction
+1422,Sales,Sales Executive,25,2,8639,No,3,3,62.0,High,Monitor regularly
+600,Research & Development,Healthcare Representative,35,5,6142,Yes,3,3,62.0,High,Reduce overtime
+652,Research & Development,Laboratory Technician,37,0,2090,Yes,3,3,62.0,High,Reduce overtime; Review compensation; Enhanced onboarding & mentorship
+1417,Sales,Sales Executive,41,10,9241,No,3,3,62.0,High,Consider promotion/career development
+637,Sales,Sales Executive,52,8,8446,Yes,2,2,62.0,High,Reduce overtime; Improve work-life balance; Address job satisfaction; Consider promotion/career development
+55,Research & Development,Laboratory Technician,31,2,3722,Yes,1,4,62.0,High,Reduce overtime; Improve work-life balance
+51,Research & Development,Manufacturing Director,35,8,10221,No,4,3,62.0,High,Monitor regularly
+1442,Research & Development,Laboratory Technician,52,2,3212,No,2,4,62.0,High,Improve work-life balance
+1444,Research & Development,Research Scientist,24,6,3760,Yes,3,4,62.0,High,Reduce overtime
+1447,Sales,Sales Executive,26,2,4969,No,3,1,62.0,High,Address job satisfaction
+211,Sales,Sales Executive,34,9,4568,No,3,3,62.0,High,Consider promotion/career development
+974,Sales,Sales Representative,36,3,2644,Yes,2,4,62.0,High,Reduce overtime; Review compensation; Improve work-life balance
+1157,Research & Development,Healthcare Representative,34,14,6687,No,4,4,62.0,High,Consider promotion/career development
+491,Sales,Sales Executive,36,5,9278,Yes,3,2,62.0,High,Reduce overtime; Address job satisfaction
+808,Research & Development,Healthcare Representative,48,2,4240,No,3,3,62.0,High,Monitor regularly
+822,Sales,Sales Executive,33,10,4539,No,2,3,62.0,High,Improve work-life balance
+824,Research & Development,Laboratory Technician,42,12,3673,No,3,4,62.0,High,Consider promotion/career development
+252,Sales,Sales Executive,28,2,9854,Yes,3,3,62.0,High,Reduce overtime
+550,Research & Development,Research Scientist,26,6,3102,No,3,1,62.0,High,Address job satisfaction
+1149,Sales,Sales Executive,42,5,6244,No,3,3,62.0,High,Monitor regularly
+255,Research & Development,Laboratory Technician,32,8,4025,No,3,3,62.0,High,Consider promotion/career development
+548,Sales,Sales Executive,50,3,10854,Yes,3,1,62.0,High,Reduce overtime; Address job satisfaction
+383,Research & Development,Laboratory Technician,26,7,2570,No,3,4,62.0,High,Review compensation; Consider promotion/career development
+375,Research & Development,Research Scientist,21,0,1232,No,3,4,62.0,High,Review compensation; Enhanced onboarding & mentorship
+1175,Research & Development,Research Director,47,3,18300,No,3,3,62.0,High,Monitor regularly
+384,Sales,Sales Executive,56,0,5380,No,3,1,62.0,High,Address job satisfaction; Enhanced onboarding & mentorship
+365,Research & Development,Healthcare Representative,34,13,5343,No,3,1,62.0,High,Address job satisfaction; Consider promotion/career development
+739,Research & Development,Laboratory Technician,44,1,3161,Yes,1,3,62.0,High,Reduce overtime; Improve work-life balance; Enhanced onboarding & mentorship
+193,Research & Development,Manufacturing Director,39,9,5042,No,1,3,62.0,High,Improve work-life balance
+467,Research & Development,Manufacturing Director,40,1,6516,Yes,3,1,62.0,High,Reduce overtime; Address job satisfaction; Enhanced onboarding & mentorship
+1369,Sales,Sales Executive,27,6,5071,No,3,4,62.0,High,Monitor regularly
+614,Sales,Sales Executive,36,13,9699,No,3,4,62.0,High,Monitor regularly
+419,Research & Development,Healthcare Representative,39,19,10938,No,3,3,62.0,High,Consider promotion/career development
+182,Research & Development,Healthcare Representative,39,6,10920,No,3,3,62.0,High,Monitor regularly
+1224,Sales,Sales Executive,50,4,6796,Yes,3,3,62.0,High,Reduce overtime
+418,Research & Development,Healthcare Representative,34,5,6142,No,3,3,62.0,High,Consider promotion/career development
+931,Research & Development,Laboratory Technician,31,2,2610,No,2,3,62.0,High,Review compensation; Improve work-life balance
+975,Research & Development,Laboratory Technician,40,10,6323,No,4,3,62.0,High,Consider promotion/career development
+838,Research & Development,Research Director,58,2,15787,Yes,3,3,62.0,High,Reduce overtime
+845,Research & Development,Manufacturing Director,48,10,7898,No,3,4,62.0,High,Monitor regularly
+928,Human Resources,Human Resources,26,7,2741,Yes,2,3,62.0,High,Reduce overtime; Review compensation; Improve work-life balance
+134,Research & Development,Research Scientist,27,8,2394,Yes,3,3,62.0,High,Reduce overtime; Review compensation; Consider promotion/career development
+1299,Research & Development,Manufacturing Director,41,5,6032,Yes,3,2,62.0,High,Reduce overtime; Address job satisfaction
+1310,Research & Development,Manufacturing Director,30,0,6877,Yes,2,4,62.0,High,Reduce overtime; Improve work-life balance; Enhanced onboarding & mentorship
+1301,Research & Development,Healthcare Representative,38,4,6288,No,2,1,62.0,High,Improve work-life balance; Address job satisfaction
+1045,Sales,Sales Executive,43,1,10798,No,3,4,62.0,High,Enhanced onboarding & mentorship
+315,Research & Development,Laboratory Technician,29,9,4193,Yes,3,3,62.0,High,Reduce overtime
+316,Research & Development,Research Director,38,10,12061,No,3,2,62.0,High,Address job satisfaction
+1103,Sales,Sales Executive,46,2,7991,No,3,2,62.0,High,Address job satisfaction
+770,Sales,Sales Executive,48,8,6439,No,3,3,62.0,High,Consider promotion/career development
+1012,Human Resources,Human Resources,38,6,6077,No,3,3,62.0,High,Monitor regularly
+765,Research & Development,Research Scientist,35,5,4930,Yes,4,4,62.0,High,Reduce overtime
+896,Research & Development,Laboratory Technician,28,2,3867,Yes,3,4,62.0,High,Reduce overtime
+73,Sales,Sales Executive,44,4,5454,Yes,2,1,62.0,High,Reduce overtime; Improve work-life balance; Address job satisfaction
+876,Research & Development,Research Scientist,26,3,2042,Yes,3,1,62.0,High,Reduce overtime; Review compensation; Address job satisfaction
+332,Research & Development,Manufacturing Director,30,7,9667,No,3,3,62.0,High,Monitor regularly
+1364,Sales,Sales Executive,32,2,9907,Yes,2,2,62.0,High,Reduce overtime; Improve work-life balance; Address job satisfaction
+1089,Sales,Sales Representative,36,13,4502,No,2,4,62.0,High,Improve work-life balance; Consider promotion/career development
+287,Research & Development,Laboratory Technician,35,3,3681,No,3,4,62.0,High,Monitor regularly
+286,Research & Development,Laboratory Technician,28,0,3485,No,1,3,62.0,High,Improve work-life balance; Enhanced onboarding & mentorship
+291,Research & Development,Healthcare Representative,46,10,5562,No,3,2,62.0,High,Address job satisfaction
+1311,Research & Development,Laboratory Technician,30,10,2206,No,3,3,62.0,High,Review compensation
+109,Research & Development,Healthcare Representative,33,13,7725,No,1,4,62.0,High,Improve work-life balance; Consider promotion/career development
+110,Research & Development,Laboratory Technician,18,0,1904,No,3,3,62.0,High,Review compensation; Enhanced onboarding & mentorship
+1322,Sales,Sales Executive,35,15,4312,No,3,1,62.0,High,Address job satisfaction
+1328,Research & Development,Manufacturing Director,36,7,10252,Yes,3,1,62.0,High,Reduce overtime; Address job satisfaction; Consider promotion/career development
+1332,Sales,Sales Executive,53,15,7525,No,3,2,62.0,High,Address job satisfaction; Consider promotion/career development
+282,Research & Development,Manufacturing Director,36,14,8858,No,2,4,62.0,High,Improve work-life balance; Consider promotion/career development
+1081,Sales,Sales Executive,34,14,9888,No,2,4,62.0,High,Improve work-life balance
+781,Research & Development,Manufacturing Director,33,5,4320,No,3,2,62.0,High,Address job satisfaction
+296,Research & Development,Laboratory Technician,30,11,2564,No,2,4,62.0,High,Review compensation; Improve work-life balance; Consider promotion/career development
+1077,Human Resources,Human Resources,35,9,8837,Yes,3,4,62.0,High,Reduce overtime
+1434,Sales,Sales Executive,41,9,4103,No,3,1,62.0,High,Address job satisfaction
+34,Sales,Sales Representative,28,3,2909,No,4,3,62.0,High,Review compensation
+622,Research & Development,Research Scientist,39,7,4108,No,3,4,62.0,High,Monitor regularly
+1436,Research & Development,Laboratory Technician,58,1,2380,Yes,2,4,62.0,High,Reduce overtime; Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+10,Research & Development,Research Director,32,7,11159,No,3,4,62.0,High,Consider promotion/career development
+1468,Research & Development,Laboratory Technician,28,1,2515,Yes,2,4,61.0,High,Reduce overtime; Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+1441,Research & Development,Research Scientist,39,5,3904,No,3,1,61.0,High,Address job satisfaction
+1416,Research & Development,Manufacturing Director,35,13,10903,No,3,2,61.0,High,Address job satisfaction; Consider promotion/career development
+653,Research & Development,Research Scientist,45,1,2274,No,3,3,61.0,High,Review compensation; Enhanced onboarding & mentorship
+654,Research & Development,Laboratory Technician,50,1,2380,No,3,4,61.0,High,Review compensation; Enhanced onboarding & mentorship
+659,Research & Development,Research Scientist,32,1,2956,No,3,1,61.0,High,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+640,Sales,Sales Executive,36,1,6815,No,3,3,61.0,High,Enhanced onboarding & mentorship
+646,Research & Development,Research Scientist,44,0,2290,No,3,3,61.0,High,Review compensation; Enhanced onboarding & mentorship
+26,Research & Development,Laboratory Technician,49,9,3211,No,2,1,61.0,High,Improve work-life balance; Address job satisfaction
+1064,Sales,Sales Executive,45,10,4385,No,3,1,61.0,High,Address job satisfaction; Consider promotion/career development
+1066,Research & Development,Laboratory Technician,18,0,1611,No,4,4,61.0,High,Review compensation; Enhanced onboarding & mentorship
+300,Research & Development,Manufacturing Director,54,5,10502,No,1,3,61.0,High,Improve work-life balance
+301,Research & Development,Research Scientist,44,6,2936,Yes,3,3,61.0,High,Reduce overtime; Review compensation
+782,Research & Development,Research Scientist,27,1,2318,No,3,3,61.0,High,Review compensation; Enhanced onboarding & mentorship
+788,Research & Development,Research Scientist,33,10,3348,Yes,3,1,61.0,High,Reduce overtime; Address job satisfaction; Consider promotion/career development
+511,Research & Development,Research Scientist,33,8,2909,Yes,3,3,61.0,High,Reduce overtime; Review compensation
+514,Sales,Sales Executive,36,15,4639,No,2,1,61.0,High,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+518,Research & Development,Research Scientist,31,7,4084,No,1,3,61.0,High,Improve work-life balance; Consider promotion/career development
+309,Research & Development,Research Scientist,19,1,1859,Yes,4,2,61.0,High,Reduce overtime; Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+285,Research & Development,Laboratory Technician,36,10,5810,No,2,4,61.0,High,Improve work-life balance
+317,Research & Development,Healthcare Representative,42,1,6781,No,3,4,61.0,High,Enhanced onboarding & mentorship
+322,Sales,Sales Executive,26,7,4294,No,3,1,61.0,High,Address job satisfaction
+801,Research & Development,Healthcare Representative,46,4,9396,No,3,1,61.0,High,Address job satisfaction
+1032,Research & Development,Research Scientist,26,1,2061,No,3,4,61.0,High,Review compensation; Enhanced onboarding & mentorship
+1040,Research & Development,Laboratory Technician,30,5,2097,No,1,4,61.0,High,Review compensation; Improve work-life balance
+1061,Research & Development,Research Scientist,22,1,2472,Yes,3,2,61.0,High,Reduce overtime; Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+352,Research & Development,Research Scientist,19,1,2552,No,3,1,61.0,High,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+1008,Sales,Sales Executive,33,2,6392,No,1,1,61.0,High,Improve work-life balance; Address job satisfaction
+1106,Research & Development,Manufacturing Director,35,1,5916,Yes,3,3,61.0,High,Reduce overtime; Enhanced onboarding & mentorship
+1108,Sales,Sales Executive,26,4,5326,No,2,1,61.0,High,Improve work-life balance; Address job satisfaction
+271,Research & Development,Laboratory Technician,44,5,3162,No,3,3,61.0,High,Monitor regularly
+276,Research & Development,Research Scientist,40,2,2809,No,3,3,61.0,High,Review compensation
+775,Research & Development,Manufacturing Director,28,5,4877,No,2,1,61.0,High,Improve work-life balance; Address job satisfaction
+1009,Sales,Sales Representative,20,2,2728,No,3,1,61.0,High,Review compensation; Address job satisfaction
+494,Research & Development,Research Scientist,38,0,2619,No,2,1,61.0,High,Review compensation; Improve work-life balance; Address job satisfaction; Enhanced onboarding & mentorship
+499,Research & Development,Laboratory Technician,24,1,2210,No,1,2,61.0,High,Review compensation; Improve work-life balance; Address job satisfaction; Enhanced onboarding & mentorship
+502,Research & Development,Laboratory Technician,23,5,3989,Yes,3,3,61.0,High,Reduce overtime
+809,Sales,Sales Executive,31,5,5332,No,3,1,61.0,High,Address job satisfaction
+751,Research & Development,Healthcare Representative,29,6,8853,No,4,4,61.0,High,Monitor regularly
+756,Research & Development,Research Scientist,26,8,2875,Yes,2,4,61.0,High,Reduce overtime; Review compensation; Improve work-life balance
+1127,Research & Development,Manufacturing Director,37,6,6447,No,2,2,61.0,High,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+1128,Research & Development,Research Scientist,29,6,2340,No,3,4,61.0,High,Review compensation
+1131,Sales,Sales Executive,51,10,5441,Yes,1,4,61.0,High,Reduce overtime; Improve work-life balance
+249,Research & Development,Research Scientist,34,4,2960,No,3,1,61.0,High,Review compensation; Address job satisfaction
+251,Sales,Sales Executive,32,4,9204,No,2,4,61.0,High,Improve work-life balance
+1101,Sales,Sales Representative,30,3,2983,No,3,2,61.0,High,Review compensation; Address job satisfaction
+246,Sales,Sales Executive,34,3,6500,No,3,1,61.0,High,Address job satisfaction
+1156,Sales,Sales Representative,24,5,3202,Yes,3,2,61.0,High,Reduce overtime; Address job satisfaction
+566,Research & Development,Laboratory Technician,31,4,2218,No,3,1,61.0,High,Review compensation; Address job satisfaction
+536,Sales,Sales Executive,30,10,9419,No,3,4,61.0,High,Consider promotion/career development
+537,Sales,Sales Executive,33,3,5324,No,3,1,61.0,High,Address job satisfaction
+541,Sales,Sales Executive,32,0,6735,No,3,2,61.0,High,Address job satisfaction; Enhanced onboarding & mentorship
+546,Sales,Sales Executive,28,5,4724,No,3,1,61.0,High,Address job satisfaction
+748,Sales,Sales Representative,41,4,3140,Yes,2,2,61.0,High,Reduce overtime; Improve work-life balance; Address job satisfaction
+750,Research & Development,Research Scientist,35,9,4249,Yes,3,3,61.0,High,Reduce overtime
+368,Research & Development,Manufacturing Director,30,11,8474,No,3,3,61.0,High,Consider promotion/career development
+346,Human Resources,Human Resources,36,10,3886,No,2,4,61.0,High,Improve work-life balance
+350,Sales,Sales Executive,26,2,4157,Yes,2,4,61.0,High,Reduce overtime; Improve work-life balance
+1159,Sales,Sales Executive,32,3,4465,No,3,4,61.0,High,Monitor regularly
+1164,Sales,Sales Executive,38,7,4028,No,3,4,61.0,High,Monitor regularly
+217,Sales,Sales Executive,28,5,8463,No,3,1,61.0,High,Address job satisfaction
+223,Research & Development,Manufacturing Director,38,1,6553,No,3,3,61.0,High,Enhanced onboarding & mentorship
+260,Sales,Sales Executive,25,6,5744,Yes,3,3,61.0,High,Reduce overtime
+262,Research & Development,Laboratory Technician,24,5,2774,No,3,3,61.0,High,Review compensation
+245,Sales,Sales Executive,40,7,8396,No,2,1,61.0,High,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+202,Research & Development,Research Scientist,44,4,2436,Yes,3,4,61.0,High,Reduce overtime; Review compensation
+1192,Research & Development,Research Scientist,20,1,2836,No,4,2,61.0,High,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+581,Research & Development,Research Scientist,31,1,1261,No,4,2,61.0,High,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+733,Research & Development,Research Scientist,31,2,2657,Yes,3,2,61.0,High,Reduce overtime; Review compensation; Address job satisfaction
+738,Research & Development,Laboratory Technician,29,3,3983,No,3,4,61.0,High,Monitor regularly
+559,Research & Development,Research Director,37,5,13664,No,4,3,61.0,High,Monitor regularly
+389,Research & Development,Laboratory Technician,26,3,2659,Yes,3,4,61.0,High,Reduce overtime; Review compensation
+472,Sales,Sales Executive,60,2,5405,No,3,1,61.0,High,Address job satisfaction
+479,Research & Development,Research Scientist,29,5,3785,No,1,1,61.0,High,Improve work-life balance; Address job satisfaction
+1204,Research & Development,Laboratory Technician,30,1,2693,No,3,3,61.0,High,Review compensation; Enhanced onboarding & mentorship
+184,Sales,Sales Executive,29,10,4554,No,2,4,61.0,High,Improve work-life balance
+190,Research & Development,Healthcare Representative,43,1,9985,No,2,1,61.0,High,Improve work-life balance; Address job satisfaction; Enhanced onboarding & mentorship
+194,Sales,Sales Representative,31,2,2791,No,3,4,61.0,High,Review compensation
+1210,Research & Development,Research Scientist,45,6,3452,No,2,4,61.0,High,Improve work-life balance
+1177,Research & Development,Research Scientist,30,5,2632,No,2,3,61.0,High,Review compensation; Improve work-life balance
+1189,Research & Development,Laboratory Technician,39,1,3646,Yes,4,1,61.0,High,Reduce overtime; Address job satisfaction; Enhanced onboarding & mentorship
+1226,Sales,Sales Executive,27,7,4105,No,3,4,61.0,High,Monitor regularly
+586,Research & Development,Research Scientist,35,10,2022,Yes,2,2,61.0,High,Reduce overtime; Review compensation; Improve work-life balance; Address job satisfaction; Consider promotion/career development
+588,Sales,Sales Executive,34,3,4538,Yes,3,1,61.0,High,Reduce overtime; Address job satisfaction
+703,Research & Development,Laboratory Technician,22,4,2451,No,2,1,61.0,High,Review compensation; Improve work-life balance; Address job satisfaction
+709,Research & Development,Laboratory Technician,35,1,2690,No,2,4,61.0,High,Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+66,Research & Development,Research Director,45,21,16704,No,3,2,61.0,High,Address job satisfaction; Consider promotion/career development
+69,Sales,Sales Executive,43,4,5346,No,2,3,61.0,High,Improve work-life balance
+1384,Research & Development,Research Scientist,27,4,2045,No,3,4,61.0,High,Review compensation
+1395,Research & Development,Healthcare Representative,35,16,10388,Yes,2,3,61.0,High,Reduce overtime; Improve work-life balance; Consider promotion/career development
+1400,Sales,Sales Executive,26,8,5828,Yes,3,4,61.0,High,Reduce overtime; Consider promotion/career development
+942,Research & Development,Research Scientist,25,2,2096,No,2,2,61.0,High,Review compensation; Improve work-life balance; Address job satisfaction
+945,Sales,Sales Representative,33,1,2851,Yes,3,3,61.0,High,Reduce overtime; Review compensation; Enhanced onboarding & mentorship
+158,Research & Development,Research Scientist,27,7,4774,No,2,1,61.0,High,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+162,Sales,Sales Executive,37,3,9602,Yes,2,3,61.0,High,Reduce overtime; Improve work-life balance
+1245,Research & Development,Manufacturing Director,42,10,7406,Yes,2,1,61.0,High,Reduce overtime; Improve work-life balance; Address job satisfaction; Consider promotion/career development
+1247,Sales,Sales Representative,29,2,2760,No,3,2,61.0,High,Review compensation; Address job satisfaction
+1252,Research & Development,Healthcare Representative,29,3,6294,Yes,4,3,61.0,High,Reduce overtime
+1221,Research & Development,Laboratory Technician,29,1,2319,Yes,3,1,61.0,High,Reduce overtime; Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+393,Research & Development,Healthcare Representative,34,9,8500,No,2,4,61.0,High,Improve work-life balance
+400,Research & Development,Laboratory Technician,39,8,3755,No,3,3,61.0,High,Monitor regularly
+406,Sales,Sales Executive,48,9,4051,No,3,4,61.0,High,Consider promotion/career development
+964,Research & Development,Manufacturing Director,39,8,4534,No,3,3,61.0,High,Monitor regularly
+966,Human Resources,Human Resources,30,4,2180,No,2,4,61.0,High,Review compensation; Improve work-life balance
+411,Research & Development,Manufacturing Director,50,12,13973,Yes,3,3,61.0,High,Reduce overtime
+412,Sales,Sales Executive,37,5,7428,No,3,4,61.0,High,Monitor regularly
+422,Research & Development,Research Scientist,30,5,2132,Yes,3,3,61.0,High,Reduce overtime; Review compensation
+681,Research & Development,Research Scientist,40,4,2342,Yes,2,4,61.0,High,Reduce overtime; Review compensation; Improve work-life balance
+1253,Research & Development,Research Scientist,31,1,2501,No,3,2,61.0,High,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+1283,Research & Development,Manager,48,2,15202,No,3,4,61.0,High,Monitor regularly
+1236,Research & Development,Healthcare Representative,38,2,5745,No,3,4,61.0,High,Monitor regularly
+1238,Sales,Sales Executive,54,9,10686,No,3,3,61.0,High,Consider promotion/career development
+923,Research & Development,Manager,42,1,19613,No,3,4,61.0,High,Enhanced onboarding & mentorship
+930,Sales,Sales Representative,21,1,2679,No,3,2,61.0,High,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+932,Human Resources,Human Resources,19,1,2564,No,4,4,61.0,High,Review compensation; Enhanced onboarding & mentorship
+866,Research & Development,Research Scientist,30,9,4968,No,3,1,61.0,High,Address job satisfaction
+458,Research & Development,Healthcare Representative,48,15,10999,No,3,3,61.0,High,Consider promotion/career development
+459,Research & Development,Laboratory Technician,41,5,2238,No,3,1,61.0,High,Review compensation; Address job satisfaction
+464,Research & Development,Research Scientist,20,1,1009,Yes,3,3,61.0,High,Reduce overtime; Review compensation; Enhanced onboarding & mentorship
+74,Research & Development,Research Scientist,59,1,2177,No,3,4,61.0,High,Review compensation; Enhanced onboarding & mentorship
+84,Sales,Sales Executive,54,6,5940,No,3,1,61.0,High,Address job satisfaction
+1370,Sales,Sales Executive,45,5,10761,Yes,3,1,61.0,High,Reduce overtime; Address job satisfaction
+1377,Research & Development,Research Scientist,29,0,2404,Yes,3,1,61.0,High,Reduce overtime; Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+123,Sales,Sales Representative,29,1,2642,No,3,3,61.0,High,Review compensation; Enhanced onboarding & mentorship
+612,Research & Development,Research Scientist,34,1,2972,No,1,4,61.0,High,Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+664,Research & Development,Research Scientist,20,1,2600,Yes,3,1,61.0,High,Reduce overtime; Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+673,Research & Development,Manufacturing Director,34,0,5121,No,3,1,61.0,High,Address job satisfaction; Enhanced onboarding & mentorship
+129,Research & Development,Research Scientist,33,3,2500,No,4,4,61.0,High,Review compensation
+1288,Research & Development,Manufacturing Director,42,4,6062,Yes,3,4,61.0,High,Reduce overtime
+1293,Research & Development,Research Scientist,32,5,3433,No,2,3,61.0,High,Improve work-life balance
+1309,Sales,Sales Executive,50,0,4728,Yes,3,3,61.0,High,Reduce overtime; Enhanced onboarding & mentorship
+1365,Research & Development,Laboratory Technician,34,7,5346,No,2,1,61.0,High,Improve work-life balance; Address job satisfaction
+875,Research & Development,Research Scientist,35,4,2977,No,3,4,61.0,High,Review compensation
+897,Research & Development,Laboratory Technician,23,3,3295,No,1,2,61.0,High,Improve work-life balance; Address job satisfaction
+899,Research & Development,Manager,48,3,15402,No,1,1,61.0,High,Improve work-life balance; Address job satisfaction
+432,Research & Development,Laboratory Technician,32,3,2332,No,3,2,61.0,High,Review compensation; Address job satisfaction
+439,Research & Development,Laboratory Technician,37,3,3629,No,3,3,61.0,High,Monitor regularly
+918,Research & Development,Research Scientist,27,4,2478,Yes,2,2,61.0,High,Reduce overtime; Review compensation; Improve work-life balance; Address job satisfaction
+632,Research & Development,Laboratory Technician,40,4,2387,No,3,2,61.0,High,Review compensation; Address job satisfaction
+115,Research & Development,Research Scientist,29,10,2720,No,3,4,61.0,High,Review compensation
+1323,Research & Development,Research Director,40,18,13499,No,2,3,61.0,High,Improve work-life balance
+1331,Research & Development,Research Director,51,20,19537,No,3,3,61.0,High,Consider promotion/career development
+1423,Research & Development,Research Scientist,35,6,2859,No,3,3,61.0,High,Review compensation
+605,Sales,Sales Executive,36,16,10325,Yes,3,4,61.0,High,Reduce overtime
+96,Research & Development,Healthcare Representative,29,5,5373,No,2,1,61.0,High,Improve work-life balance; Address job satisfaction
+1343,Sales,Sales Executive,33,0,8564,Yes,2,1,61.0,High,Reduce overtime; Improve work-life balance; Address job satisfaction; Enhanced onboarding & mentorship
+1454,Research & Development,Research Scientist,42,5,4556,No,3,3,61.0,High,Monitor regularly
+1458,Research & Development,Research Scientist,29,4,2389,Yes,2,4,61.0,High,Reduce overtime; Review compensation; Improve work-life balance
+881,Research & Development,Healthcare Representative,34,8,8621,No,4,2,61.0,High,Address job satisfaction; Consider promotion/career development
+882,Sales,Sales Executive,32,4,9610,No,1,3,61.0,High,Improve work-life balance
+886,Research & Development,Manufacturing Director,31,9,9936,No,3,1,61.0,High,Address job satisfaction
+440,Research & Development,Healthcare Representative,35,8,7632,Yes,3,3,61.0,High,Reduce overtime
+445,Sales,Sales Executive,34,2,6029,No,3,4,61.0,High,Monitor regularly
+450,Research & Development,Research Scientist,28,5,3310,No,3,4,61.0,High,Monitor regularly
+888,Research & Development,Healthcare Representative,38,1,6673,Yes,3,1,61.0,High,Reduce overtime; Address job satisfaction; Enhanced onboarding & mentorship
+626,Sales,Sales Executive,29,11,7336,No,1,1,61.0,High,Improve work-life balance; Address job satisfaction
+650,Research & Development,Laboratory Technician,29,10,4723,Yes,3,1,61.0,High,Reduce overtime; Address job satisfaction
+1432,Sales,Sales Executive,39,8,7880,No,3,3,60.0,High,Monitor regularly
+31,Research & Development,Healthcare Representative,36,16,6586,Yes,2,4,60.0,High,Reduce overtime; Improve work-life balance; Consider promotion/career development
+618,Research & Development,Research Scientist,56,5,2942,No,3,3,60.0,High,Review compensation
+642,Research & Development,Research Scientist,41,5,2782,No,3,4,60.0,High,Review compensation
+641,Human Resources,Human Resources,24,1,1555,No,3,3,60.0,High,Review compensation; Enhanced onboarding & mentorship
+639,Research & Development,Research Scientist,37,6,2996,Yes,3,3,60.0,High,Reduce overtime; Review compensation
+601,Sales,Sales Representative,34,1,2220,Yes,3,3,60.0,High,Reduce overtime; Review compensation; Enhanced onboarding & mentorship
+662,Sales,Sales Executive,47,9,4163,Yes,3,4,60.0,High,Reduce overtime
+660,Research & Development,Laboratory Technician,35,1,2074,Yes,3,1,60.0,High,Reduce overtime; Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+631,Sales,Sales Executive,36,10,7587,No,3,1,60.0,High,Address job satisfaction
+624,Research & Development,Research Scientist,43,3,2438,No,2,3,60.0,High,Review compensation; Improve work-life balance
+893,Research & Development,Research Scientist,18,0,1051,No,3,4,60.0,High,Review compensation; Enhanced onboarding & mentorship
+446,Sales,Sales Executive,59,6,5171,No,3,4,60.0,High,Monitor regularly
+885,Research & Development,Research Scientist,40,1,4422,Yes,1,4,60.0,High,Reduce overtime; Improve work-life balance; Enhanced onboarding & mentorship
+878,Sales,Sales Executive,31,6,6582,Yes,4,4,60.0,High,Reduce overtime
+877,Sales,Sales Representative,20,2,2044,No,2,3,60.0,High,Review compensation; Improve work-life balance
+917,Research & Development,Laboratory Technician,33,15,5207,Yes,3,3,60.0,High,Reduce overtime; Consider promotion/career development
+914,Sales,Sales Executive,38,7,6893,No,3,1,60.0,High,Address job satisfaction
+430,Research & Development,Laboratory Technician,24,5,3162,No,2,4,60.0,High,Improve work-life balance
+429,Research & Development,Laboratory Technician,36,1,2835,No,3,4,60.0,High,Review compensation; Enhanced onboarding & mentorship
+470,Research & Development,Research Scientist,23,1,1223,No,3,3,60.0,High,Review compensation; Enhanced onboarding & mentorship
+463,Research & Development,Manufacturing Director,31,11,4424,No,3,4,60.0,High,Monitor regularly
+462,Research & Development,Laboratory Technician,49,2,2587,Yes,2,1,60.0,High,Reduce overtime; Review compensation; Improve work-life balance; Address job satisfaction
+863,Sales,Sales Executive,49,9,13120,No,3,2,60.0,High,Address job satisfaction
+413,Research & Development,Healthcare Representative,24,4,4617,No,2,3,60.0,High,Improve work-life balance
+919,Sales,Sales Executive,35,10,7823,No,3,4,60.0,High,Monitor regularly
+395,Research & Development,Laboratory Technician,27,1,2341,No,3,1,60.0,High,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+944,Sales,Sales Executive,40,5,4639,No,3,1,60.0,High,Address job satisfaction
+943,Human Resources,Human Resources,35,5,4323,No,1,3,60.0,High,Improve work-life balance
+1396,Research & Development,Manager,34,11,11631,No,3,1,60.0,High,Address job satisfaction; Consider promotion/career development
+1388,Sales,Sales Executive,33,11,5147,No,2,2,60.0,High,Improve work-life balance; Address job satisfaction
+1387,Research & Development,Laboratory Technician,44,3,2042,No,4,2,60.0,High,Review compensation; Address job satisfaction
+65,Sales,Sales Executive,37,14,10609,No,1,3,60.0,High,Improve work-life balance; Consider promotion/career development
+62,Sales,Sales Representative,35,1,2404,No,3,3,60.0,High,Review compensation; Enhanced onboarding & mentorship
+1378,Research & Development,Manufacturing Director,41,2,5003,No,3,3,60.0,High,Monitor regularly
+860,Research & Development,Laboratory Technician,40,4,3377,No,2,1,60.0,High,Improve work-life balance; Address job satisfaction
+847,Human Resources,Human Resources,42,3,2696,Yes,3,3,60.0,High,Reduce overtime; Review compensation
+832,Sales,Sales Executive,51,7,4936,No,2,4,60.0,High,Improve work-life balance
+361,Research & Development,Research Scientist,22,3,3375,No,4,3,60.0,High,Monitor regularly
+982,Sales,Sales Representative,20,2,2783,No,3,3,60.0,High,Review compensation
+972,Sales,Sales Representative,47,3,3294,Yes,2,4,60.0,High,Reduce overtime; Improve work-life balance
+969,Research & Development,Healthcare Representative,40,11,10322,No,3,4,60.0,High,Consider promotion/career development
+968,Research & Development,Laboratory Technician,52,5,3149,No,3,3,60.0,High,Monitor regularly
+388,Research & Development,Research Director,31,2,13675,No,3,3,60.0,High,Monitor regularly
+347,Research & Development,Healthcare Representative,26,5,4741,Yes,3,1,60.0,High,Reduce overtime; Address job satisfaction
+986,Research & Development,Healthcare Representative,32,5,6667,No,3,4,60.0,High,Monitor regularly
+985,Research & Development,Manager,39,21,19272,No,3,4,60.0,High,Consider promotion/career development
+369,Research & Development,Research Scientist,32,5,3038,No,3,3,60.0,High,Monitor regularly
+817,Sales,Sales Representative,24,1,2033,No,3,2,60.0,High,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+812,Sales,Sales Executive,34,10,5337,No,3,4,60.0,High,Consider promotion/career development
+489,Human Resources,Human Resources,36,5,2342,No,3,1,60.0,High,Review compensation; Address job satisfaction
+806,Sales,Sales Executive,34,6,5714,No,2,3,60.0,High,Improve work-life balance
+804,Research & Development,Research Scientist,29,7,2514,No,3,4,60.0,High,Review compensation
+803,Research & Development,Research Scientist,30,5,3761,No,2,4,60.0,High,Improve work-life balance
+328,Research & Development,Research Director,43,4,17159,No,3,1,60.0,High,Address job satisfaction
+1025,Sales,Sales Executive,30,7,7140,No,3,1,60.0,High,Address job satisfaction
+1023,Sales,Sales Executive,33,10,5487,No,2,3,60.0,High,Improve work-life balance
+1015,Research & Development,Research Scientist,31,3,2321,Yes,3,1,60.0,High,Reduce overtime; Review compensation; Address job satisfaction
+1004,Research & Development,Healthcare Representative,38,1,9824,No,3,3,60.0,High,Enhanced onboarding & mentorship
+355,Research & Development,Laboratory Technician,43,9,5257,No,4,3,60.0,High,Monitor regularly
+351,Sales,Sales Executive,41,9,8189,Yes,3,3,60.0,High,Reduce overtime
+1060,Sales,Sales Executive,30,10,9714,No,3,1,60.0,High,Address job satisfaction; Consider promotion/career development
+1056,Human Resources,Manager,56,7,19717,No,3,2,60.0,High,Address job satisfaction; Consider promotion/career development
+1055,Research & Development,Research Director,41,18,19419,No,4,3,60.0,High,Monitor regularly
+1037,Human Resources,Human Resources,26,8,2942,No,3,3,60.0,High,Review compensation; Consider promotion/career development
+1033,Human Resources,Human Resources,24,2,2145,No,3,4,60.0,High,Review compensation
+797,Sales,Sales Executive,39,20,13341,No,3,1,60.0,High,Address job satisfaction; Consider promotion/career development
+792,Sales,Sales Representative,21,2,2380,Yes,3,1,60.0,High,Reduce overtime; Review compensation; Address job satisfaction
+517,Research & Development,Laboratory Technician,43,8,5679,Yes,3,3,60.0,High,Reduce overtime; Consider promotion/career development
+790,Sales,Sales Executive,46,3,9071,Yes,3,4,60.0,High,Reduce overtime
+789,Research & Development,Manufacturing Director,46,10,4810,No,2,3,60.0,High,Improve work-life balance
+786,Research & Development,Laboratory Technician,32,5,4200,No,4,1,60.0,High,Address job satisfaction
+299,Research & Development,Laboratory Technician,32,10,4883,No,3,3,60.0,High,Monitor regularly
+1078,Research & Development,Laboratory Technician,41,1,4766,Yes,3,4,60.0,High,Reduce overtime; Enhanced onboarding & mentorship
+1067,Research & Development,Research Scientist,33,2,2911,No,2,4,60.0,High,Review compensation; Improve work-life balance
+1065,Sales,Sales Executive,34,3,6538,No,3,3,60.0,High,Monitor regularly
+325,Research & Development,Laboratory Technician,31,7,5915,No,2,4,60.0,High,Improve work-life balance
+321,Research & Development,Research Scientist,29,5,2703,No,3,2,60.0,High,Review compensation; Address job satisfaction
+308,Research & Development,Manager,47,10,11849,Yes,2,2,60.0,High,Reduce overtime; Improve work-life balance; Address job satisfaction; Consider promotion/career development
+305,Research & Development,Laboratory Technician,28,4,2367,No,2,4,60.0,High,Review compensation; Improve work-life balance
+304,Sales,Sales Representative,33,2,2342,No,2,4,60.0,High,Review compensation; Improve work-life balance
+302,Research & Development,Research Scientist,32,6,6322,Yes,2,4,60.0,High,Reduce overtime; Improve work-life balance
+533,Research & Development,Laboratory Technician,38,6,2468,No,2,2,60.0,High,Review compensation; Improve work-life balance; Address job satisfaction
+525,Research & Development,Manufacturing Director,27,3,4227,No,3,4,60.0,High,Monitor regularly
+523,Research & Development,Manufacturing Director,54,5,4440,Yes,3,1,60.0,High,Reduce overtime; Address job satisfaction
+521,Sales,Sales Representative,36,5,3407,No,3,1,60.0,High,Address job satisfaction
+520,Sales,Sales Executive,35,11,4581,Yes,4,4,60.0,High,Reduce overtime; Consider promotion/career development
+759,Research & Development,Research Scientist,18,0,1514,No,1,3,60.0,High,Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+758,Research & Development,Research Scientist,31,5,2911,No,2,3,60.0,High,Review compensation; Improve work-life balance; Consider promotion/career development
+1120,Sales,Sales Representative,25,3,4400,No,3,1,60.0,High,Address job satisfaction
+1115,Sales,Sales Executive,46,9,9619,No,3,4,60.0,High,Consider promotion/career development
+268,Sales,Sales Executive,31,2,4559,Yes,3,3,60.0,High,Reduce overtime
+1109,Research & Development,Research Scientist,28,5,2144,No,2,3,60.0,High,Review compensation; Improve work-life balance
+1099,Research & Development,Laboratory Technician,42,5,2576,No,3,1,60.0,High,Review compensation; Address job satisfaction
+1098,Sales,Sales Executive,29,3,6931,No,3,4,60.0,High,Monitor regularly
+257,Sales,Sales Executive,46,10,10368,Yes,2,4,60.0,High,Reduce overtime; Improve work-life balance
+1143,Sales,Sales Executive,27,5,6349,Yes,3,2,60.0,High,Reduce overtime; Address job satisfaction
+1134,Research & Development,Healthcare Representative,36,12,8321,Yes,3,1,60.0,High,Reduce overtime; Address job satisfaction; Consider promotion/career development
+1122,Research & Development,Research Director,39,4,13464,No,3,3,60.0,High,Monitor regularly
+755,Sales,Sales Executive,29,4,4649,No,2,3,60.0,High,Improve work-life balance
+754,Research & Development,Manufacturing Director,42,9,4434,No,2,2,60.0,High,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+1155,Research & Development,Laboratory Technician,32,2,2743,No,3,2,60.0,High,Review compensation; Address job satisfaction
+1153,Research & Development,Research Scientist,29,5,2168,Yes,2,4,60.0,High,Reduce overtime; Review compensation; Improve work-life balance
+1148,Sales,Sales Executive,28,8,4779,Yes,3,2,60.0,High,Reduce overtime; Address job satisfaction; Consider promotion/career development
+247,Research & Development,Healthcare Representative,44,5,5933,No,2,2,60.0,High,Improve work-life balance; Address job satisfaction
+238,Sales,Sales Executive,47,1,4978,No,1,2,60.0,High,Improve work-life balance; Address job satisfaction; Enhanced onboarding & mentorship
+263,Research & Development,Healthcare Representative,35,10,4014,Yes,1,4,60.0,High,Reduce overtime; Improve work-life balance
+228,Research & Development,Research Scientist,31,10,5003,No,3,1,60.0,High,Address job satisfaction; Consider promotion/career development
+1174,Sales,Sales Executive,38,8,5249,No,3,4,60.0,High,Consider promotion/career development
+1169,Research & Development,Research Scientist,32,7,2718,No,3,2,60.0,High,Review compensation; Address job satisfaction
+564,Sales,Sales Executive,38,9,9924,No,3,2,60.0,High,Address job satisfaction; Consider promotion/career development
+557,Research & Development,Healthcare Representative,46,2,10527,No,2,3,60.0,High,Improve work-life balance
+552,Sales,Sales Executive,40,1,10932,No,3,1,60.0,High,Address job satisfaction; Enhanced onboarding & mentorship
+734,Research & Development,Research Scientist,21,2,2070,Yes,4,2,60.0,High,Reduce overtime; Review compensation; Address job satisfaction
+731,Sales,Sales Executive,34,15,4599,Yes,4,2,60.0,High,Reduce overtime; Address job satisfaction; Consider promotion/career development
+578,Sales,Sales Executive,30,10,6578,No,3,3,60.0,High,Monitor regularly
+1198,Research & Development,Laboratory Technician,42,2,2093,No,3,3,60.0,High,Review compensation
+1197,Sales,Sales Representative,27,4,3041,No,3,1,60.0,High,Address job satisfaction
+1196,Research & Development,Laboratory Technician,26,2,4364,No,3,4,60.0,High,Monitor regularly
+203,Research & Development,Research Scientist,31,6,2356,Yes,3,4,60.0,High,Reduce overtime; Review compensation
+1184,Research & Development,Laboratory Technician,35,2,2376,No,4,4,60.0,High,Review compensation
+1178,Research & Development,Research Scientist,28,3,2703,Yes,3,3,60.0,High,Reduce overtime; Review compensation
+1176,Research & Development,Manufacturing Director,38,7,6261,No,1,4,60.0,High,Improve work-life balance
+231,Research & Development,Healthcare Representative,40,5,6513,No,3,4,60.0,High,Monitor regularly
+1211,Sales,Sales Representative,21,1,2716,No,3,2,60.0,High,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+1208,Sales,Sales Executive,34,6,6274,No,3,4,60.0,High,Monitor regularly
+198,Sales,Sales Executive,41,5,4393,No,3,2,60.0,High,Address job satisfaction
+189,Research & Development,Research Director,27,9,12808,Yes,3,4,60.0,High,Reduce overtime
+186,Research & Development,Research Scientist,36,8,4485,No,3,2,60.0,High,Address job satisfaction; Consider promotion/career development
+717,Sales,Sales Executive,39,3,5736,No,3,3,60.0,High,Monitor regularly
+592,Research & Development,Healthcare Representative,43,10,7510,No,3,3,60.0,High,Monitor regularly
+591,Sales,Sales Representative,31,2,3067,No,3,3,60.0,High,Monitor regularly
+1233,Sales,Sales Executive,33,5,7104,No,3,3,60.0,High,Monitor regularly
+178,Research & Development,Laboratory Technician,28,4,2207,No,2,3,60.0,High,Review compensation; Improve work-life balance
+177,Research & Development,Research Scientist,36,2,2543,No,3,3,60.0,High,Review compensation
+174,Sales,Manager,31,5,11557,No,2,4,60.0,High,Improve work-life balance
+170,Sales,Sales Executive,42,9,6825,No,3,2,60.0,High,Address job satisfaction; Consider promotion/career development
+1218,Research & Development,Manufacturing Director,27,9,7412,No,3,1,60.0,High,Address job satisfaction
+1244,Research & Development,Laboratory Technician,34,5,3294,No,2,2,60.0,High,Improve work-life balance; Address job satisfaction
+167,Sales,Sales Representative,18,0,1200,No,3,3,60.0,High,Review compensation; Enhanced onboarding & mentorship
+1270,Sales,Sales Executive,49,9,5390,No,2,2,60.0,High,Improve work-life balance; Address job satisfaction
+1266,Sales,Sales Executive,40,1,9705,No,2,2,60.0,High,Improve work-life balance; Address job satisfaction; Enhanced onboarding & mentorship
+1262,Research & Development,Research Scientist,38,3,3944,Yes,3,4,60.0,High,Reduce overtime
+1257,Research & Development,Manager,41,7,17181,No,2,1,60.0,High,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+150,Research & Development,Research Scientist,43,3,4739,No,3,3,60.0,High,Monitor regularly
+146,Sales,Sales Executive,38,8,8686,No,4,4,60.0,High,Monitor regularly
+144,Research & Development,Healthcare Representative,55,3,4035,Yes,3,3,60.0,High,Reduce overtime
+138,Research & Development,Research Scientist,27,4,2539,No,3,3,60.0,High,Review compensation
+669,Sales,Sales Representative,32,4,3931,No,3,2,60.0,High,Address job satisfaction
+610,Research & Development,Laboratory Technician,41,7,2778,Yes,2,4,60.0,High,Reduce overtime; Review compensation; Improve work-life balance
+608,Sales,Manager,40,21,19833,No,2,2,60.0,High,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+1376,Research & Development,Research Scientist,33,13,4508,No,3,3,60.0,High,Monitor regularly
+1372,Research & Development,Manufacturing Director,56,6,7260,No,2,4,60.0,High,Improve work-life balance
+1368,Sales,Sales Executive,31,13,10793,No,3,4,60.0,High,Consider promotion/career development
+87,Sales,Sales Executive,36,6,6652,No,2,4,60.0,High,Improve work-life balance
+1308,Research & Development,Research Scientist,28,7,2216,Yes,3,2,60.0,High,Reduce overtime; Review compensation; Address job satisfaction
+1295,Research & Development,Research Scientist,26,1,2933,Yes,2,3,60.0,High,Reduce overtime; Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+1289,Research & Development,Healthcare Representative,41,8,6811,Yes,3,3,60.0,High,Reduce overtime
+131,Sales,Sales Executive,41,5,8938,No,3,2,60.0,High,Address job satisfaction
+106,Research & Development,Laboratory Technician,36,7,2741,No,3,3,60.0,High,Review compensation
+1312,Sales,Sales Representative,30,1,1081,No,2,4,60.0,High,Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+100,Research & Development,Laboratory Technician,32,3,2314,No,3,4,60.0,High,Review compensation
+1335,Research & Development,Laboratory Technician,27,5,2099,No,4,1,60.0,High,Review compensation; Address job satisfaction
+604,Sales,Sales Representative,35,3,2572,No,2,4,60.0,High,Review compensation; Improve work-life balance
+1418,Research & Development,Healthcare Representative,33,3,7119,No,3,4,60.0,High,Monitor regularly
+41,Sales,Sales Representative,50,2,3875,No,3,2,60.0,High,Address job satisfaction
+40,Sales,Sales Executive,31,7,6172,Yes,2,3,60.0,High,Reduce overtime; Improve work-life balance; Consider promotion/career development
+1409,Sales,Sales Executive,49,5,4507,No,4,4,60.0,High,Monitor regularly
+1405,Research & Development,Manufacturing Director,32,14,6162,No,3,3,60.0,High,Consider promotion/career development
+1439,Research & Development,Research Scientist,51,1,2723,No,2,4,60.0,High,Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+1,Human Resources,Human Resources,38,6,2991,Yes,3,2,60.0,High,Reduce overtime; Review compensation; Address job satisfaction
+1464,Sales,Sales Executive,53,14,8381,No,4,1,60.0,High,Address job satisfaction; Consider promotion/career development
+4,Sales,Sales Executive,42,20,13525,No,4,2,60.0,High,Address job satisfaction; Consider promotion/career development
+1466,Research & Development,Manufacturing Director,38,1,7861,Yes,4,3,60.0,High,Reduce overtime; Enhanced onboarding & mentorship
+625,Research & Development,Laboratory Technician,23,5,2647,No,4,4,59.0,Medium,Review compensation
+17,Research & Development,Healthcare Representative,39,20,4553,No,3,3,59.0,Medium,Consider promotion/career development
+621,Research & Development,Laboratory Technician,36,15,3210,No,3,4,59.0,Medium,Consider promotion/career development
+1469,Research & Development,Research Scientist,40,4,3544,No,3,3,59.0,Medium,Monitor regularly
+620,Sales,Sales Representative,38,2,2899,No,3,2,59.0,Medium,Review compensation; Address job satisfaction
+643,Research & Development,Laboratory Technician,35,2,2660,Yes,3,3,59.0,Medium,Reduce overtime; Review compensation
+910,Sales,Sales Executive,40,11,5677,No,3,2,59.0,Medium,Address job satisfaction; Consider promotion/career development
+1438,Research & Development,Research Scientist,49,10,5130,No,3,2,59.0,Medium,Address job satisfaction
+1462,Research & Development,Research Scientist,44,5,3420,No,2,2,59.0,Medium,Improve work-life balance; Address job satisfaction
+1460,Research & Development,Research Director,54,4,13549,No,1,3,59.0,Medium,Improve work-life balance
+1428,Research & Development,Healthcare Representative,35,14,4148,No,3,3,59.0,Medium,Monitor regularly
+996,Research & Development,Manufacturing Director,52,9,13826,No,3,4,59.0,Medium,Monitor regularly
+993,Research & Development,Research Director,40,9,13757,No,3,2,59.0,Medium,Address job satisfaction; Consider promotion/career development
+374,Research & Development,Laboratory Technician,36,9,5674,No,3,2,59.0,Medium,Address job satisfaction
+648,Research & Development,Laboratory Technician,33,5,3838,No,3,2,59.0,Medium,Address job satisfaction
+1407,Sales,Sales Executive,33,6,5368,Yes,3,4,59.0,Medium,Reduce overtime
+1406,Human Resources,Human Resources,31,2,6410,No,3,1,59.0,Medium,Address job satisfaction
+1404,Research & Development,Healthcare Representative,37,4,4107,No,2,2,59.0,Medium,Improve work-life balance; Address job satisfaction
+1403,Research & Development,Laboratory Technician,34,2,2661,No,3,4,59.0,Medium,Review compensation
+685,Research & Development,Healthcare Representative,57,3,6755,No,3,3,59.0,Medium,Monitor regularly
+679,Sales,Manager,46,13,16606,No,4,2,59.0,Medium,Address job satisfaction; Consider promotion/career development
+674,Research & Development,Manufacturing Director,36,3,8847,Yes,3,2,59.0,Medium,Reduce overtime; Address job satisfaction
+453,Research & Development,Manufacturing Director,36,3,4374,No,3,3,59.0,Medium,Monitor regularly
+452,Research & Development,Research Scientist,34,6,3622,Yes,3,4,59.0,Medium,Reduce overtime
+1373,Research & Development,Manufacturing Director,51,1,6132,No,3,3,59.0,Medium,Enhanced onboarding & mentorship
+81,Research & Development,Research Scientist,21,1,2693,No,2,4,59.0,Medium,Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+77,Research & Development,Manufacturing Director,42,5,5265,No,3,3,59.0,Medium,Monitor regularly
+696,Sales,Sales Executive,33,7,6146,No,4,2,59.0,Medium,Address job satisfaction
+595,Research & Development,Healthcare Representative,49,3,6651,No,2,3,59.0,Medium,Improve work-life balance
+594,Sales,Sales Executive,25,5,4487,Yes,3,4,59.0,Medium,Reduce overtime
+589,Research & Development,Laboratory Technician,39,2,2404,Yes,1,1,59.0,Medium,Reduce overtime; Review compensation; Improve work-life balance; Address job satisfaction
+665,Research & Development,Research Scientist,29,2,2546,No,4,2,59.0,Medium,Review compensation; Address job satisfaction
+611,Sales,Sales Executive,25,4,4950,No,3,4,59.0,Medium,Monitor regularly
+663,Research & Development,Laboratory Technician,31,5,3477,No,4,3,59.0,Medium,Monitor regularly
+657,Sales,Sales Executive,32,11,5010,No,3,3,59.0,Medium,Consider promotion/career development
+649,Research & Development,Healthcare Representative,31,6,6833,Yes,2,1,59.0,Medium,Reduce overtime; Improve work-life balance; Address job satisfaction
+362,Sales,Sales Representative,23,0,2322,No,3,1,59.0,Medium,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+360,Research & Development,Laboratory Technician,43,3,2258,No,3,4,59.0,Medium,Review compensation
+390,Sales,Sales Representative,38,4,5405,Yes,2,4,59.0,Medium,Reduce overtime; Improve work-life balance
+376,Sales,Sales Executive,36,15,5406,No,2,4,59.0,Medium,Improve work-life balance; Consider promotion/career development
+963,Research & Development,Laboratory Technician,33,9,2707,No,4,1,59.0,Medium,Review compensation; Address job satisfaction
+962,Research & Development,Research Scientist,37,1,3022,No,3,2,59.0,Medium,Address job satisfaction; Enhanced onboarding & mentorship
+958,Research & Development,Research Scientist,30,10,2862,No,2,4,59.0,Medium,Review compensation; Improve work-life balance
+892,Sales,Manager,48,0,12504,No,1,3,59.0,Medium,Improve work-life balance; Enhanced onboarding & mentorship
+1044,Research & Development,Healthcare Representative,39,7,9991,No,3,1,59.0,Medium,Address job satisfaction
+1039,Sales,Sales Executive,35,5,4859,No,3,3,59.0,Medium,Monitor regularly
+1034,Sales,Sales Executive,34,8,8628,No,2,3,59.0,Medium,Improve work-life balance
+342,Human Resources,Human Resources,41,3,6430,No,3,2,59.0,Medium,Address job satisfaction
+1351,Research & Development,Research Scientist,32,8,4998,Yes,3,3,59.0,Medium,Reduce overtime
+1337,Research & Development,Manufacturing Director,34,11,5957,No,3,1,59.0,Medium,Address job satisfaction; Consider promotion/career development
+103,Research & Development,Research Scientist,55,4,3537,No,3,2,59.0,Medium,Address job satisfaction
+1327,Human Resources,Human Resources,36,5,2143,No,3,2,59.0,Medium,Review compensation; Address job satisfaction
+70,Sales,Sales Representative,27,9,3540,No,3,3,59.0,Medium,Consider promotion/career development
+59,Research & Development,Research Scientist,34,7,2768,No,3,3,59.0,Medium,Review compensation; Consider promotion/career development
+331,Research & Development,Healthcare Representative,40,22,13503,No,2,2,59.0,Medium,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+1027,Research & Development,Research Director,49,5,19161,No,3,4,59.0,Medium,Consider promotion/career development
+1002,Research & Development,Healthcare Representative,29,8,4335,No,2,3,59.0,Medium,Improve work-life balance
+359,Research & Development,Laboratory Technician,37,6,3500,No,1,3,59.0,Medium,Improve work-life balance
+465,Research & Development,Manufacturing Director,37,10,4213,No,1,1,59.0,Medium,Improve work-life balance; Address job satisfaction
+865,Sales,Sales Representative,23,3,2275,Yes,3,4,59.0,Medium,Reduce overtime; Review compensation
+353,Sales,Sales Executive,40,12,10855,No,2,4,59.0,Medium,Improve work-life balance
+837,Sales,Sales Executive,31,3,9637,No,3,1,59.0,Medium,Address job satisfaction
+119,Sales,Sales Executive,37,9,8834,No,3,2,59.0,Medium,Address job satisfaction; Consider promotion/career development
+116,Research & Development,Laboratory Technician,39,9,6472,Yes,3,4,59.0,Medium,Reduce overtime; Consider promotion/career development
+113,Research & Development,Laboratory Technician,33,5,2436,Yes,1,4,59.0,Medium,Reduce overtime; Review compensation; Improve work-life balance
+111,Research & Development,Research Scientist,27,7,2279,No,2,2,59.0,Medium,Review compensation; Improve work-life balance; Address job satisfaction
+574,Research & Development,Laboratory Technician,29,11,3812,No,4,4,59.0,Medium,Monitor regularly
+1313,Sales,Sales Representative,21,3,2610,No,2,4,59.0,Medium,Review compensation; Improve work-life balance
+1367,Research & Development,Research Scientist,34,2,5484,No,2,4,59.0,Medium,Improve work-life balance
+1352,Research & Development,Research Scientist,21,2,3117,No,3,4,59.0,Medium,Monitor regularly
+324,Sales,Sales Representative,26,4,2966,No,3,3,59.0,Medium,Review compensation
+323,Sales,Sales Executive,37,10,7642,Yes,3,2,59.0,Medium,Reduce overtime; Address job satisfaction
+320,Research & Development,Manufacturing Director,54,10,10739,No,3,3,59.0,Medium,Monitor regularly
+478,Sales,Sales Executive,35,13,10306,No,3,1,59.0,Medium,Address job satisfaction; Consider promotion/career development
+1058,Sales,Sales Executive,27,5,4478,Yes,3,3,59.0,Medium,Reduce overtime
+1052,Sales,Sales Representative,20,2,2678,No,3,4,59.0,Medium,Review compensation
+830,Research & Development,Laboratory Technician,26,3,2373,Yes,3,2,59.0,Medium,Reduce overtime; Review compensation; Address job satisfaction
+828,Sales,Sales Executive,35,13,10377,Yes,2,4,59.0,Medium,Reduce overtime; Improve work-life balance; Consider promotion/career development
+1284,Research & Development,Healthcare Representative,40,2,4069,Yes,3,4,59.0,Medium,Reduce overtime
+1279,Research & Development,Manufacturing Director,46,8,10845,No,3,3,59.0,Medium,Monitor regularly
+1274,Research & Development,Research Director,50,32,14411,Yes,3,4,59.0,Medium,Reduce overtime; Consider promotion/career development
+1261,Sales,Sales Executive,27,6,5769,Yes,3,4,59.0,Medium,Reduce overtime; Consider promotion/career development
+540,Research & Development,Manufacturing Director,30,8,4695,Yes,3,3,59.0,Medium,Reduce overtime
+718,Sales,Sales Executive,31,10,9852,Yes,2,3,59.0,Medium,Reduce overtime; Improve work-life balance; Consider promotion/career development
+707,Human Resources,Human Resources,25,2,2187,No,3,2,59.0,Medium,Review compensation; Address job satisfaction
+706,Sales,Sales Executive,45,5,4850,No,3,3,59.0,Medium,Monitor regularly
+1321,Human Resources,Human Resources,46,4,5021,Yes,3,2,59.0,Medium,Reduce overtime; Address job satisfaction
+165,Sales,Sales Executive,55,9,5160,No,2,4,59.0,Medium,Improve work-life balance; Consider promotion/career development
+157,Research & Development,Healthcare Representative,56,13,6306,No,2,3,59.0,Medium,Improve work-life balance
+156,Research & Development,Laboratory Technician,37,5,3452,No,3,1,59.0,Medium,Address job satisfaction
+1232,Sales,Sales Executive,47,7,4537,Yes,3,4,59.0,Medium,Reduce overtime; Consider promotion/career development
+768,Research & Development,Healthcare Representative,40,7,4448,No,3,1,59.0,Medium,Address job satisfaction; Consider promotion/career development
+749,Research & Development,Research Scientist,28,2,4382,No,2,3,59.0,Medium,Improve work-life balance
+135,Research & Development,Research Scientist,28,5,3201,No,1,2,59.0,Medium,Improve work-life balance; Address job satisfaction
+127,Research & Development,Healthcare Representative,35,4,9884,Yes,3,1,59.0,Medium,Reduce overtime; Address job satisfaction
+1085,Research & Development,Laboratory Technician,40,1,3448,No,3,3,59.0,Medium,Enhanced onboarding & mentorship
+307,Research & Development,Research Scientist,33,3,2799,Yes,3,1,59.0,Medium,Reduce overtime; Review compensation; Address job satisfaction
+1079,Sales,Sales Executive,28,4,4908,No,3,4,59.0,Medium,Monitor regularly
+851,Research & Development,Laboratory Technician,35,2,4014,Yes,3,1,59.0,Medium,Reduce overtime; Address job satisfaction
+850,Research & Development,Research Scientist,38,1,3057,Yes,1,3,59.0,Medium,Reduce overtime; Improve work-life balance; Enhanced onboarding & mentorship
+843,Research & Development,Laboratory Technician,45,9,3633,Yes,3,1,59.0,Medium,Reduce overtime; Address job satisfaction
+1135,Research & Development,Healthcare Representative,44,10,7978,No,3,4,59.0,Medium,Monitor regularly
+1114,Research & Development,Manufacturing Director,27,2,4298,No,3,1,59.0,Medium,Address job satisfaction
+180,Sales,Sales Representative,35,2,2014,No,3,4,59.0,Medium,Review compensation
+191,Research & Development,Research Director,38,11,11510,Yes,3,4,59.0,Medium,Reduce overtime
+1206,Sales,Sales Executive,42,6,5155,No,4,1,59.0,Medium,Address job satisfaction
+1194,Sales,Sales Executive,36,10,9980,No,2,4,59.0,Medium,Improve work-life balance; Consider promotion/career development
+1193,Sales,Sales Executive,32,13,5484,No,2,3,59.0,Medium,Improve work-life balance; Consider promotion/career development
+740,Sales,Sales Executive,26,8,5296,No,3,3,59.0,Medium,Consider promotion/career development
+147,Sales,Sales Executive,32,5,4403,No,2,4,59.0,Medium,Improve work-life balance
+143,Research & Development,Manufacturing Director,37,14,6474,No,2,4,59.0,Medium,Improve work-life balance
+1248,Research & Development,Research Scientist,29,1,2109,No,3,1,59.0,Medium,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+1246,Research & Development,Manufacturing Director,35,7,5762,No,3,4,59.0,Medium,Monitor regularly
+1104,Research & Development,Laboratory Technician,22,1,2398,Yes,3,1,59.0,Medium,Reduce overtime; Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+292,Sales,Sales Representative,50,3,2683,Yes,3,3,59.0,Medium,Reduce overtime; Review compensation
+290,Human Resources,Human Resources,37,3,2073,Yes,3,1,59.0,Medium,Reduce overtime; Review compensation; Address job satisfaction
+280,Sales,Sales Executive,38,5,5666,Yes,3,4,59.0,Medium,Reduce overtime
+1093,Sales,Sales Executive,30,4,9250,No,3,2,59.0,Medium,Address job satisfaction
+1092,Research & Development,Research Scientist,26,4,3904,No,3,4,59.0,Medium,Monitor regularly
+1165,Sales,Sales Executive,35,10,5204,Yes,3,4,59.0,Medium,Reduce overtime
+1162,Research & Development,Laboratory Technician,42,9,2593,Yes,3,1,59.0,Medium,Reduce overtime; Review compensation; Address job satisfaction; Consider promotion/career development
+1160,Sales,Sales Executive,27,8,6214,No,3,2,59.0,Medium,Address job satisfaction
+1152,Research & Development,Research Scientist,32,4,2432,Yes,3,3,59.0,Medium,Reduce overtime; Review compensation
+212,Sales,Sales Executive,26,5,4684,No,3,4,59.0,Medium,Monitor regularly
+1190,Research & Development,Laboratory Technician,31,10,4197,No,3,3,59.0,Medium,Monitor regularly
+225,Sales,Sales Representative,53,7,2306,Yes,1,3,59.0,Medium,Reduce overtime; Review compensation; Improve work-life balance; Consider promotion/career development
+513,Research & Development,Manager,39,21,19197,Yes,3,3,59.0,Medium,Reduce overtime
+504,Research & Development,Research Scientist,28,1,1563,No,1,3,59.0,Medium,Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+551,Sales,Sales Executive,31,9,6932,No,2,3,59.0,Medium,Improve work-life balance
+547,Research & Development,Healthcare Representative,36,7,7094,No,3,3,59.0,Medium,Monitor regularly
+1228,Research & Development,Manufacturing Director,46,6,7379,No,2,4,59.0,Medium,Improve work-life balance
+183,Research & Development,Research Scientist,27,6,3445,No,2,4,59.0,Medium,Improve work-life balance
+181,Research & Development,Manufacturing Director,59,9,10512,No,2,4,59.0,Medium,Improve work-life balance; Consider promotion/career development
+244,Sales,Sales Executive,28,7,5253,No,3,4,59.0,Medium,Monitor regularly
+232,Research & Development,Research Scientist,32,7,5878,No,3,2,59.0,Medium,Address job satisfaction
+261,Sales,Sales Executive,29,5,5869,No,3,3,59.0,Medium,Monitor regularly
+1138,Research & Development,Research Scientist,56,3,2066,No,4,1,59.0,Medium,Review compensation; Address job satisfaction
+501,Research & Development,Healthcare Representative,49,5,10965,No,3,3,59.0,Medium,Monitor regularly
+490,Research & Development,Research Scientist,41,1,2107,No,1,1,59.0,Medium,Review compensation; Improve work-life balance; Address job satisfaction; Enhanced onboarding & mentorship
+796,Research & Development,Research Director,34,12,11994,No,3,2,59.0,Medium,Address job satisfaction
+1137,Research & Development,Research Scientist,34,10,2691,No,2,4,59.0,Medium,Review compensation; Improve work-life balance; Consider promotion/career development
+213,Research & Development,Research Scientist,35,3,2194,No,2,1,59.0,Medium,Review compensation; Improve work-life balance; Address job satisfaction
+636,Human Resources,Human Resources,28,3,2706,No,3,4,59.0,Medium,Review compensation
+635,Research & Development,Manufacturing Director,31,11,7143,Yes,2,4,59.0,Medium,Reduce overtime; Improve work-life balance; Consider promotion/career development
+1425,Human Resources,Manager,40,21,16437,Yes,3,4,59.0,Medium,Reduce overtime; Consider promotion/career development
+1421,Research & Development,Laboratory Technician,45,9,4447,No,2,2,59.0,Medium,Improve work-life balance; Address job satisfaction
+47,Sales,Sales Executive,38,10,5343,No,3,4,59.0,Medium,Monitor regularly
+45,Research & Development,Laboratory Technician,26,1,2377,No,2,3,59.0,Medium,Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+668,Sales,Sales Executive,24,2,4577,No,3,3,59.0,Medium,Monitor regularly
+433,Research & Development,Research Scientist,34,6,4381,No,3,1,59.0,Medium,Address job satisfaction
+428,Research & Development,Laboratory Technician,29,5,2974,No,3,3,59.0,Medium,Review compensation
+426,Sales,Sales Executive,35,11,4717,No,3,3,59.0,Medium,Consider promotion/career development
+417,Sales,Sales Executive,41,6,5993,Yes,1,4,59.0,Medium,Reduce overtime; Improve work-life balance
+915,Research & Development,Research Scientist,56,2,4257,Yes,3,1,59.0,Medium,Reduce overtime; Address job satisfaction
+952,Research & Development,Healthcare Representative,58,5,5660,Yes,3,3,59.0,Medium,Reduce overtime
+404,Research & Development,Laboratory Technician,44,3,2362,No,4,1,59.0,Medium,Review compensation; Address job satisfaction
+394,Research & Development,Research Scientist,35,3,3506,Yes,3,3,59.0,Medium,Reduce overtime
+938,Research & Development,Research Scientist,33,3,3452,No,3,4,59.0,Medium,Monitor regularly
+925,Research & Development,Manufacturing Director,46,9,8578,No,2,4,59.0,Medium,Improve work-life balance; Consider promotion/career development
+438,Research & Development,Research Scientist,38,2,2684,No,2,3,59.0,Medium,Review compensation; Improve work-life balance
+437,Research & Development,Healthcare Representative,35,10,5689,Yes,4,3,59.0,Medium,Reduce overtime
+35,Research & Development,Research Scientist,31,2,2695,Yes,1,4,59.0,Medium,Reduce overtime; Review compensation; Improve work-life balance
+36,Sales,Sales Executive,36,1,6653,No,3,4,59.0,Medium,Enhanced onboarding & mentorship
+29,Human Resources,Human Resources,59,2,2267,No,2,3,57.99999999999999,Medium,Review compensation; Improve work-life balance
+25,Research & Development,Research Scientist,24,2,2293,Yes,2,4,57.99999999999999,Medium,Reduce overtime; Review compensation; Improve work-life balance
+24,Sales,Sales Executive,32,13,5228,Yes,3,2,57.99999999999999,Medium,Reduce overtime; Address job satisfaction; Consider promotion/career development
+434,Research & Development,Laboratory Technician,26,7,3578,No,3,1,57.99999999999999,Medium,Address job satisfaction
+926,Research & Development,Research Scientist,34,1,4505,No,3,2,57.99999999999999,Medium,Address job satisfaction; Enhanced onboarding & mentorship
+940,Research & Development,Manufacturing Director,29,10,5056,Yes,2,4,57.99999999999999,Medium,Reduce overtime; Improve work-life balance
+941,Research & Development,Laboratory Technician,50,3,3690,No,2,3,57.99999999999999,Medium,Improve work-life balance
+1413,Research & Development,Manufacturing Director,39,5,5295,No,3,2,57.99999999999999,Medium,Address job satisfaction
+53,Research & Development,Manufacturing Director,34,9,4724,No,3,4,57.99999999999999,Medium,Consider promotion/career development
+633,Research & Development,Laboratory Technician,22,2,2523,No,3,4,57.99999999999999,Medium,Review compensation
+37,Research & Development,Manufacturing Director,32,9,6162,Yes,3,4,57.99999999999999,Medium,Reduce overtime; Consider promotion/career development
+527,Research & Development,Laboratory Technician,36,1,4834,No,2,3,57.99999999999999,Medium,Improve work-life balance; Enhanced onboarding & mentorship
+532,Research & Development,Research Director,58,31,19246,Yes,3,2,57.99999999999999,Medium,Reduce overtime; Address job satisfaction; Consider promotion/career development
+534,Research & Development,Research Director,40,20,19626,No,4,3,57.99999999999999,Medium,Consider promotion/career development
+780,Sales,Sales Representative,19,1,2121,Yes,4,2,57.99999999999999,Medium,Reduce overtime; Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+1142,Sales,Manager,46,12,17465,No,3,3,57.99999999999999,Medium,Consider promotion/career development
+258,Sales,Sales Executive,40,6,6380,Yes,3,3,57.99999999999999,Medium,Reduce overtime
+236,Human Resources,Human Resources,28,5,4936,No,3,4,57.99999999999999,Medium,Monitor regularly
+787,Sales,Sales Executive,39,15,5902,No,4,3,57.99999999999999,Medium,Consider promotion/career development
+508,Research & Development,Research Scientist,22,2,2773,No,3,3,57.99999999999999,Medium,Review compensation
+509,Human Resources,Human Resources,43,9,3539,No,3,4,57.99999999999999,Medium,Monitor regularly
+216,Research & Development,Research Scientist,19,1,2994,Yes,3,4,57.99999999999999,Medium,Reduce overtime; Review compensation; Enhanced onboarding & mentorship
+224,Human Resources,Human Resources,30,11,6347,Yes,1,4,57.99999999999999,Medium,Reduce overtime; Improve work-life balance; Consider promotion/career development
+227,Research & Development,Research Scientist,30,1,2083,No,3,3,57.99999999999999,Medium,Review compensation; Enhanced onboarding & mentorship
+1167,Sales,Sales Executive,43,10,7847,Yes,3,4,57.99999999999999,Medium,Reduce overtime; Consider promotion/career development
+1094,Research & Development,Laboratory Technician,27,2,3468,No,3,2,57.99999999999999,Medium,Address job satisfaction
+1095,Sales,Sales Executive,53,5,10934,Yes,3,4,57.99999999999999,Medium,Reduce overtime
+295,Sales,Manager,41,18,16595,No,3,1,57.99999999999999,Medium,Address job satisfaction; Consider promotion/career development
+1100,Research & Development,Laboratory Technician,40,1,2406,No,2,4,57.99999999999999,Medium,Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+269,Sales,Sales Executive,39,1,5238,Yes,2,3,57.99999999999999,Medium,Reduce overtime; Improve work-life balance; Enhanced onboarding & mentorship
+1205,Research & Development,Laboratory Technician,35,8,2258,No,3,3,57.99999999999999,Medium,Review compensation
+1207,Research & Development,Research Scientist,40,1,3617,Yes,3,2,57.99999999999999,Medium,Reduce overtime; Address job satisfaction; Enhanced onboarding & mentorship
+187,Research & Development,Research Scientist,30,3,3204,No,3,1,57.99999999999999,Medium,Address job satisfaction
+197,Research & Development,Laboratory Technician,23,4,2500,No,4,1,57.99999999999999,Medium,Review compensation; Address job satisfaction
+1212,Research & Development,Research Scientist,37,3,3920,No,2,1,57.99999999999999,Medium,Improve work-life balance; Address job satisfaction
+179,Research & Development,Manufacturing Director,30,6,9957,No,2,1,57.99999999999999,Medium,Improve work-life balance; Address job satisfaction
+1112,Research & Development,Research Director,53,5,17584,Yes,2,3,57.99999999999999,Medium,Reduce overtime; Improve work-life balance
+1113,Research & Development,Healthcare Representative,31,9,5582,No,3,4,57.99999999999999,Medium,Consider promotion/career development
+1133,Research & Development,Laboratory Technician,35,5,2705,No,4,3,57.99999999999999,Medium,Review compensation
+849,Research & Development,Research Scientist,21,3,3230,No,4,3,57.99999999999999,Medium,Monitor regularly
+1074,Research & Development,Laboratory Technician,28,10,4558,No,3,1,57.99999999999999,Medium,Address job satisfaction
+1075,Sales,Manager,42,1,18303,No,4,3,57.99999999999999,Medium,Enhanced onboarding & mentorship
+306,Research & Development,Research Scientist,27,2,2024,No,1,2,57.99999999999999,Medium,Review compensation; Improve work-life balance; Address job satisfaction
+310,Research & Development,Healthcare Representative,37,1,5163,No,4,4,57.99999999999999,Medium,Enhanced onboarding & mentorship
+120,Research & Development,Laboratory Technician,39,10,3069,No,3,3,57.99999999999999,Medium,Monitor regularly
+1297,Sales,Sales Executive,31,3,4233,No,1,1,57.99999999999999,Medium,Improve work-life balance; Address job satisfaction
+1303,Sales,Sales Executive,45,15,5593,No,3,3,57.99999999999999,Medium,Consider promotion/career development
+753,Research & Development,Manufacturing Director,45,3,6434,No,3,3,57.99999999999999,Medium,Monitor regularly
+159,Human Resources,Human Resources,26,5,2148,Yes,3,2,57.99999999999999,Medium,Reduce overtime; Review compensation; Address job satisfaction
+160,Sales,Sales Representative,24,2,2400,No,3,4,57.99999999999999,Medium,Review compensation
+166,Sales,Sales Executive,34,10,6125,No,4,1,57.99999999999999,Medium,Address job satisfaction; Consider promotion/career development
+1242,Sales,Manager,51,29,19847,Yes,2,2,57.99999999999999,Medium,Reduce overtime; Improve work-life balance; Address job satisfaction; Consider promotion/career development
+710,Human Resources,Human Resources,29,10,7988,No,2,1,57.99999999999999,Medium,Improve work-life balance; Address job satisfaction
+743,Research & Development,Laboratory Technician,35,1,1951,No,3,4,57.99999999999999,Medium,Review compensation; Enhanced onboarding & mentorship
+554,Research & Development,Research Director,50,8,18172,Yes,2,2,57.99999999999999,Medium,Reduce overtime; Improve work-life balance; Address job satisfaction
+539,Research & Development,Manufacturing Director,31,5,4345,No,3,3,57.99999999999999,Medium,Monitor regularly
+1259,Research & Development,Research Scientist,40,9,4661,No,3,4,57.99999999999999,Medium,Consider promotion/career development
+1268,Research & Development,Healthcare Representative,34,8,5063,No,2,3,57.99999999999999,Medium,Improve work-life balance; Consider promotion/career development
+1286,Sales,Sales Executive,40,5,5715,No,3,2,57.99999999999999,Medium,Address job satisfaction
+503,Sales,Sales Executive,34,15,4001,Yes,3,3,57.99999999999999,Medium,Reduce overtime
+814,Research & Development,Laboratory Technician,52,5,2950,No,1,1,57.99999999999999,Medium,Review compensation; Improve work-life balance; Address job satisfaction
+823,Human Resources,Human Resources,33,5,3600,No,3,3,57.99999999999999,Medium,Monitor regularly
+1051,Sales,Sales Executive,35,5,5561,No,1,1,57.99999999999999,Medium,Improve work-life balance; Address job satisfaction
+486,Research & Development,Laboratory Technician,25,2,4031,No,3,1,57.99999999999999,Medium,Address job satisfaction
+487,Research & Development,Laboratory Technician,38,0,3306,No,2,3,57.99999999999999,Medium,Improve work-life balance; Enhanced onboarding & mentorship
+1063,Human Resources,Human Resources,34,3,3737,No,1,4,57.99999999999999,Medium,Improve work-life balance
+319,Research & Development,Healthcare Representative,36,3,8008,No,3,1,57.99999999999999,Medium,Address job satisfaction
+1358,Research & Development,Healthcare Representative,38,1,5811,Yes,3,4,57.99999999999999,Medium,Reduce overtime; Enhanced onboarding & mentorship
+692,Sales,Manager,52,33,19068,Yes,4,3,57.99999999999999,Medium,Reduce overtime; Consider promotion/career development
+693,Sales,Sales Executive,31,5,8346,No,3,3,57.99999999999999,Medium,Monitor regularly
+1306,Sales,Sales Representative,32,2,2269,No,3,2,57.99999999999999,Medium,Review compensation; Address job satisfaction
+1307,Human Resources,Manager,59,3,18844,No,3,4,57.99999999999999,Medium,Monitor regularly
+569,Research & Development,Laboratory Technician,56,10,2339,No,1,3,57.99999999999999,Medium,Review compensation; Improve work-life balance; Consider promotion/career development
+577,Research & Development,Research Scientist,28,5,2713,No,1,4,57.99999999999999,Medium,Review compensation; Improve work-life balance
+117,Research & Development,Laboratory Technician,35,9,5363,No,3,4,57.99999999999999,Medium,Monitor regularly
+326,Research & Development,Healthcare Representative,41,3,6870,No,1,2,57.99999999999999,Medium,Improve work-life balance; Address job satisfaction
+327,Sales,Sales Executive,45,1,4286,No,3,1,57.99999999999999,Medium,Address job satisfaction; Enhanced onboarding & mentorship
+1069,Research & Development,Healthcare Representative,33,9,4878,Yes,3,4,57.99999999999999,Medium,Reduce overtime; Consider promotion/career development
+836,Research & Development,Research Scientist,28,2,2377,No,3,3,57.99999999999999,Medium,Review compensation
+344,Research & Development,Research Scientist,38,2,2821,No,3,3,57.99999999999999,Medium,Review compensation
+356,Research & Development,Laboratory Technician,35,1,1281,No,3,3,57.99999999999999,Medium,Review compensation; Enhanced onboarding & mentorship
+358,Research & Development,Manufacturing Director,49,15,6567,No,2,1,57.99999999999999,Medium,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+1010,Sales,Sales Executive,29,6,5561,No,2,3,57.99999999999999,Medium,Improve work-life balance
+56,Research & Development,Research Scientist,30,6,2141,No,2,2,57.99999999999999,Medium,Review compensation; Improve work-life balance; Address job satisfaction
+57,Research & Development,Laboratory Technician,32,8,2370,No,3,2,57.99999999999999,Medium,Review compensation; Address job satisfaction
+672,Research & Development,Manager,35,7,11996,No,2,2,57.99999999999999,Medium,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+719,Sales,Sales Executive,34,10,7083,Yes,3,3,57.99999999999999,Medium,Reduce overtime; Consider promotion/career development
+1330,Research & Development,Research Scientist,27,1,2566,Yes,2,3,57.99999999999999,Medium,Reduce overtime; Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+92,Research & Development,Research Scientist,37,5,4284,Yes,3,1,57.99999999999999,Medium,Reduce overtime; Address job satisfaction
+93,Sales,Sales Executive,55,1,10239,No,3,4,57.99999999999999,Medium,Enhanced onboarding & mentorship
+99,Research & Development,Research Scientist,33,3,2622,No,3,2,57.99999999999999,Medium,Review compensation; Address job satisfaction
+1336,Research & Development,Laboratory Technician,27,5,3816,No,3,2,57.99999999999999,Medium,Address job satisfaction
+1346,Research & Development,Laboratory Technician,42,1,4841,No,3,2,57.99999999999999,Medium,Address job satisfaction; Enhanced onboarding & mentorship
+339,Research & Development,Laboratory Technician,55,10,5415,Yes,3,4,57.99999999999999,Medium,Reduce overtime
+957,Sales,Sales Executive,29,10,4187,Yes,2,2,57.99999999999999,Medium,Reduce overtime; Improve work-life balance; Address job satisfaction
+378,Research & Development,Research Scientist,42,4,5410,Yes,2,1,57.99999999999999,Medium,Reduce overtime; Improve work-life balance; Address job satisfaction
+971,Sales,Sales Executive,35,5,4601,No,3,3,57.99999999999999,Medium,Monitor regularly
+584,Research & Development,Research Scientist,36,1,3419,Yes,4,1,57.99999999999999,Medium,Reduce overtime; Address job satisfaction; Enhanced onboarding & mentorship
+699,Research & Development,Laboratory Technician,51,4,2075,No,3,4,57.99999999999999,Medium,Review compensation
+72,Research & Development,Laboratory Technician,49,3,4789,No,3,1,57.99999999999999,Medium,Address job satisfaction
+1371,Research & Development,Laboratory Technician,32,5,2794,No,1,2,57.99999999999999,Medium,Review compensation; Improve work-life balance; Address job satisfaction
+953,Sales,Sales Representative,28,1,2856,No,3,2,57.99999999999999,Medium,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+955,Research & Development,Manufacturing Director,51,4,5482,No,3,2,57.99999999999999,Medium,Address job satisfaction
+887,Research & Development,Research Scientist,22,2,2244,No,3,2,57.99999999999999,Medium,Review compensation; Address job satisfaction
+680,Research & Development,Manufacturing Director,22,3,4171,Yes,4,3,57.99999999999999,Medium,Reduce overtime
+684,Research & Development,Manager,50,2,17856,No,3,1,57.99999999999999,Medium,Address job satisfaction
+1412,Sales,Sales Representative,34,11,2308,Yes,3,3,57.99999999999999,Medium,Reduce overtime; Review compensation; Consider promotion/career development
+992,Sales,Sales Executive,36,10,5673,Yes,3,3,57.99999999999999,Medium,Reduce overtime
+999,Research & Development,Healthcare Representative,35,1,5093,No,4,1,57.99999999999999,Medium,Address job satisfaction; Enhanced onboarding & mentorship
+1448,Research & Development,Healthcare Representative,42,20,10124,Yes,1,4,57.99999999999999,Medium,Reduce overtime; Improve work-life balance; Consider promotion/career development
+1453,Research & Development,Research Scientist,44,8,2559,Yes,3,1,57.99999999999999,Medium,Reduce overtime; Review compensation; Address job satisfaction; Consider promotion/career development
+1457,Research & Development,Manufacturing Director,34,5,4325,No,3,2,57.99999999999999,Medium,Address job satisfaction
+1440,Research & Development,Laboratory Technician,24,1,2127,No,3,2,57.99999999999999,Medium,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+1445,Sales,Manager,45,24,18824,Yes,3,2,57.99999999999999,Medium,Reduce overtime; Address job satisfaction
+6,Human Resources,Human Resources,29,1,2804,No,3,2,57.99999999999999,Medium,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+647,Sales,Sales Representative,28,1,1052,No,3,2,57.99999999999999,Medium,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+13,Sales,Sales Executive,47,5,4591,Yes,2,3,57.99999999999999,Medium,Reduce overtime; Improve work-life balance
+11,Sales,Sales Executive,25,5,4256,No,4,1,57.99999999999999,Medium,Address job satisfaction
+2,Research & Development,Healthcare Representative,37,1,4777,No,1,2,57.99999999999999,Medium,Improve work-life balance; Address job satisfaction; Enhanced onboarding & mentorship
+1427,Sales,Sales Representative,31,7,2329,No,4,3,57.99999999999999,Medium,Review compensation; Consider promotion/career development
+30,Human Resources,Manager,47,5,19658,No,3,3,56.99999999999999,Medium,Monitor regularly
+1391,Research & Development,Manufacturing Director,35,7,10274,No,4,2,56.99999999999999,Medium,Address job satisfaction; Consider promotion/career development
+64,Research & Development,Research Scientist,58,1,3346,Yes,2,2,56.99999999999999,Medium,Reduce overtime; Improve work-life balance; Address job satisfaction; Enhanced onboarding & mentorship
+905,Sales,Sales Executive,25,5,4194,Yes,3,1,56.99999999999999,Medium,Reduce overtime; Address job satisfaction
+408,Sales,Sales Executive,36,4,5507,No,1,2,56.99999999999999,Medium,Improve work-life balance; Address job satisfaction
+409,Research & Development,Laboratory Technician,23,0,1601,Yes,3,1,56.99999999999999,Medium,Reduce overtime; Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+410,Research & Development,Laboratory Technician,29,4,4025,Yes,3,2,56.99999999999999,Medium,Reduce overtime; Address job satisfaction
+724,Research & Development,Research Scientist,52,4,4258,No,3,4,56.99999999999999,Medium,Monitor regularly
+572,Sales,Manager,59,6,11904,Yes,1,4,56.99999999999999,Medium,Reduce overtime; Improve work-life balance
+1314,Research & Development,Laboratory Technician,35,4,3743,Yes,1,2,56.99999999999999,Medium,Reduce overtime; Improve work-life balance; Address job satisfaction
+447,Sales,Sales Executive,36,18,6201,Yes,2,4,56.99999999999999,Medium,Reduce overtime; Improve work-life balance; Consider promotion/career development
+980,Human Resources,Human Resources,37,10,4071,No,2,2,56.99999999999999,Medium,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+1292,Sales,Sales Representative,25,7,2096,No,3,3,56.99999999999999,Medium,Review compensation
+60,Research & Development,Manager,33,10,11878,No,3,2,56.99999999999999,Medium,Address job satisfaction; Consider promotion/career development
+63,Research & Development,Laboratory Technician,30,2,3833,No,3,3,56.99999999999999,Medium,Monitor regularly
+75,Sales,Manager,58,1,17875,Yes,2,4,56.99999999999999,Medium,Reduce overtime; Improve work-life balance; Enhanced onboarding & mentorship
+86,Research & Development,Healthcare Representative,45,7,10851,Yes,3,1,56.99999999999999,Medium,Reduce overtime; Address job satisfaction
+79,Sales,Sales Executive,31,5,6583,Yes,3,4,56.99999999999999,Medium,Reduce overtime
+1339,Sales,Sales Executive,24,3,4999,No,2,3,56.99999999999999,Medium,Improve work-life balance
+94,Research & Development,Research Scientist,22,4,2814,Yes,2,3,56.99999999999999,Medium,Reduce overtime; Review compensation; Improve work-life balance
+902,Research & Development,Manufacturing Director,35,3,4788,Yes,3,2,56.99999999999999,Medium,Reduce overtime; Address job satisfaction
+904,Research & Development,Manager,54,10,17426,No,3,3,56.99999999999999,Medium,Consider promotion/career development
+934,Sales,Sales Executive,50,18,6347,No,3,3,56.99999999999999,Medium,Monitor regularly
+1320,Research & Development,Laboratory Technician,40,7,2741,Yes,4,4,56.99999999999999,Medium,Reduce overtime; Review compensation
+737,Research & Development,Manufacturing Director,46,1,5258,No,4,3,56.99999999999999,Medium,Enhanced onboarding & mentorship
+576,Research & Development,Healthcare Representative,58,6,10552,Yes,3,2,56.99999999999999,Medium,Reduce overtime; Address job satisfaction
+380,Research & Development,Healthcare Representative,60,1,10883,No,4,4,56.99999999999999,Medium,Enhanced onboarding & mentorship
+396,Sales,Sales Executive,39,20,12031,No,2,4,56.99999999999999,Medium,Improve work-life balance; Consider promotion/career development
+701,Research & Development,Laboratory Technician,29,3,3180,No,3,2,56.99999999999999,Medium,Address job satisfaction
+1317,Research & Development,Healthcare Representative,56,10,11103,No,2,4,56.99999999999999,Medium,Improve work-life balance
+984,Research & Development,Manager,43,16,19392,No,3,3,56.99999999999999,Medium,Consider promotion/career development
+713,Research & Development,Research Scientist,41,9,2451,No,3,3,56.99999999999999,Medium,Review compensation
+723,Research & Development,Laboratory Technician,45,17,2348,No,1,2,56.99999999999999,Medium,Review compensation; Improve work-life balance; Address job satisfaction
+281,Human Resources,Human Resources,34,2,2742,No,3,3,56.99999999999999,Medium,Review compensation
+1105,Research & Development,Research Scientist,45,5,2132,No,3,4,56.99999999999999,Medium,Review compensation
+267,Sales,Sales Representative,30,1,2476,No,3,2,56.99999999999999,Medium,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+265,Research & Development,Research Director,50,5,17399,No,2,4,56.99999999999999,Medium,Improve work-life balance
+842,Research & Development,Research Director,50,3,16880,Yes,3,1,56.99999999999999,Medium,Reduce overtime; Address job satisfaction
+1180,Human Resources,Human Resources,46,7,3423,No,4,1,56.99999999999999,Medium,Address job satisfaction; Consider promotion/career development
+1222,Sales,Sales Executive,36,3,5647,No,2,1,56.99999999999999,Medium,Improve work-life balance; Address job satisfaction
+1199,Sales,Sales Executive,34,13,4759,No,3,1,56.99999999999999,Medium,Address job satisfaction
+185,Human Resources,Human Resources,34,3,9950,Yes,3,1,56.99999999999999,Medium,Reduce overtime; Address job satisfaction
+1219,Research & Development,Research Scientist,54,7,6854,No,2,4,56.99999999999999,Medium,Improve work-life balance
+529,Research & Development,Manufacturing Director,37,10,9434,No,3,3,56.99999999999999,Medium,Consider promotion/career development
+208,Research & Development,Research Scientist,31,4,3929,Yes,3,4,56.99999999999999,Medium,Reduce overtime
+531,Research & Development,Research Director,40,21,19436,No,3,3,56.99999999999999,Medium,Monitor regularly
+329,Research & Development,Research Director,29,10,11935,No,3,3,56.99999999999999,Medium,Monitor regularly
+510,Research & Development,Manager,42,24,18430,No,2,4,56.99999999999999,Medium,Improve work-life balance; Consider promotion/career development
+506,Research & Development,Research Director,46,2,19328,Yes,3,4,56.99999999999999,Medium,Reduce overtime
+785,Research & Development,Laboratory Technician,38,5,3702,No,3,3,56.99999999999999,Medium,Monitor regularly
+1163,Research & Development,Manager,32,5,11244,No,4,4,56.99999999999999,Medium,Monitor regularly
+1147,Sales,Sales Executive,34,4,8103,Yes,2,4,56.99999999999999,Medium,Reduce overtime; Improve work-life balance
+1150,Research & Development,Research Scientist,54,4,2897,No,2,3,56.99999999999999,Medium,Review compensation; Improve work-life balance
+1007,Research & Development,Manufacturing Director,31,13,4306,No,1,1,56.99999999999999,Medium,Improve work-life balance; Address job satisfaction
+880,Research & Development,Laboratory Technician,25,3,3229,No,2,4,56.99999999999999,Medium,Improve work-life balance
+354,Research & Development,Laboratory Technician,26,7,2544,No,3,4,56.99999999999999,Medium,Review compensation; Consider promotion/career development
+868,Sales,Sales Executive,53,2,11836,No,3,4,56.99999999999999,Medium,Monitor regularly
+1231,Human Resources,Human Resources,54,9,10725,No,4,2,56.99999999999999,Medium,Address job satisfaction; Consider promotion/career development
+998,Research & Development,Laboratory Technician,25,7,3691,Yes,4,4,56.99999999999999,Medium,Reduce overtime; Consider promotion/career development
+747,Research & Development,Manufacturing Director,32,8,6725,No,4,1,56.99999999999999,Medium,Address job satisfaction; Consider promotion/career development
+757,Sales,Sales Executive,59,21,7637,No,2,1,56.99999999999999,Medium,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+760,Research & Development,Manufacturing Director,52,5,7969,Yes,3,3,56.99999999999999,Medium,Reduce overtime
+762,Research & Development,Healthcare Representative,38,19,8823,No,2,3,56.99999999999999,Medium,Improve work-life balance
+562,Research & Development,Laboratory Technician,25,2,3977,Yes,2,3,56.99999999999999,Medium,Reduce overtime; Improve work-life balance
+553,Research & Development,Laboratory Technician,27,2,2811,No,3,2,56.99999999999999,Medium,Review compensation; Address job satisfaction
+1250,Research & Development,Research Scientist,43,1,2437,Yes,3,3,56.99999999999999,Medium,Reduce overtime; Review compensation; Enhanced onboarding & mentorship
+142,Research & Development,Manufacturing Director,36,9,5228,No,3,2,56.99999999999999,Medium,Address job satisfaction
+466,Research & Development,Research Scientist,36,1,3388,Yes,2,3,56.99999999999999,Medium,Reduce overtime; Improve work-life balance; Enhanced onboarding & mentorship
+1265,Research & Development,Laboratory Technician,29,10,3131,No,3,4,56.99999999999999,Medium,Monitor regularly
+1267,Research & Development,Manager,51,2,13116,No,3,3,56.99999999999999,Medium,Monitor regularly
+977,Research & Development,Manufacturing Director,29,10,4319,No,3,3,56.99999999999999,Medium,Monitor regularly
+638,Research & Development,Research Scientist,28,5,2070,No,2,4,56.99999999999999,Medium,Review compensation; Improve work-life balance
+20,Research & Development,Manager,49,1,18711,No,4,3,56.99999999999999,Medium,Enhanced onboarding & mentorship
+38,Research & Development,Laboratory Technician,43,6,4876,No,3,2,56.99999999999999,Medium,Address job satisfaction
+852,Research & Development,Research Scientist,28,3,3464,Yes,2,4,56.99999999999999,Medium,Reduce overtime; Improve work-life balance
+483,Research & Development,Healthcare Representative,29,7,9715,No,3,1,56.99999999999999,Medium,Address job satisfaction
+800,Research & Development,Laboratory Technician,35,1,2269,No,3,4,56.99999999999999,Medium,Review compensation; Enhanced onboarding & mentorship
+811,Research & Development,Healthcare Representative,43,5,4522,Yes,3,3,56.99999999999999,Medium,Reduce overtime
+1083,Research & Development,Research Scientist,37,17,2115,No,3,4,56.99999999999999,Medium,Review compensation; Consider promotion/career development
+1437,Research & Development,Laboratory Technician,30,12,3748,No,2,2,56.99999999999999,Medium,Improve work-life balance; Address job satisfaction
+39,Sales,Sales Executive,28,5,4221,No,4,3,56.99999999999999,Medium,Monitor regularly
+1132,Research & Development,Research Scientist,45,3,4477,Yes,2,3,56.99999999999999,Medium,Reduce overtime; Improve work-life balance
+1073,Sales,Sales Executive,30,9,8412,No,3,1,56.99999999999999,Medium,Address job satisfaction; Consider promotion/career development
+1082,Research & Development,Laboratory Technician,35,3,3917,No,2,4,56.99999999999999,Medium,Improve work-life balance
+303,Sales,Sales Executive,25,5,4907,Yes,2,3,56.99999999999999,Medium,Reduce overtime; Improve work-life balance
+1118,Research & Development,Research Scientist,26,8,2366,Yes,3,3,56.99999999999999,Medium,Reduce overtime; Review compensation
+1119,Research & Development,Research Scientist,28,5,2044,No,4,4,56.99999999999999,Medium,Review compensation
+314,Sales,Sales Executive,37,5,4189,No,3,2,56.99999999999999,Medium,Address job satisfaction
+313,Research & Development,Research Scientist,34,10,2929,No,3,4,56.99999999999999,Medium,Review compensation; Consider promotion/career development
+312,Research & Development,Research Scientist,28,3,3591,No,3,1,56.99999999999999,Medium,Address job satisfaction
+485,Research & Development,Laboratory Technician,29,7,2119,Yes,2,1,56.99999999999999,Medium,Reduce overtime; Review compensation; Improve work-life balance; Address job satisfaction
+1054,Research & Development,Laboratory Technician,36,3,5562,Yes,3,1,56.99999999999999,Medium,Reduce overtime; Address job satisfaction
+1053,Research & Development,Research Scientist,33,10,2686,Yes,2,4,56.99999999999999,Medium,Reduce overtime; Review compensation; Improve work-life balance; Consider promotion/career development
+795,Sales,Sales Executive,34,5,5304,Yes,2,4,56.99999999999999,Medium,Reduce overtime; Improve work-life balance
+253,Research & Development,Research Scientist,36,6,4678,No,3,4,56.99999999999999,Medium,Monitor regularly
+1043,Research & Development,Research Scientist,27,5,2226,No,2,2,56.99999999999999,Medium,Review compensation; Improve work-life balance; Address job satisfaction
+318,Research & Development,Manufacturing Director,39,10,5151,No,3,1,56.99999999999999,Medium,Address job satisfaction; Consider promotion/career development
+492,Research & Development,Research Director,38,15,13582,No,3,1,56.99999999999999,Medium,Address job satisfaction; Consider promotion/career development
+1048,Research & Development,Healthcare Representative,47,17,8633,No,3,3,56.99999999999999,Medium,Consider promotion/career development
+477,Research & Development,Manufacturing Director,37,1,10048,No,3,3,56.99999999999999,Medium,Enhanced onboarding & mentorship
+240,Human Resources,Human Resources,44,2,5985,No,4,3,56.99999999999999,Medium,Monitor regularly
+449,Sales,Sales Executive,31,1,8161,No,3,3,56.00000000000001,Medium,Enhanced onboarding & mentorship
+889,Research & Development,Research Scientist,35,10,5098,No,3,3,56.00000000000001,Medium,Monitor regularly
+1401,Sales,Sales Executive,32,3,4078,Yes,2,2,56.00000000000001,Medium,Reduce overtime; Improve work-life balance; Address job satisfaction
+1394,Research & Development,Research Director,45,0,13245,Yes,4,1,56.00000000000001,Medium,Reduce overtime; Address job satisfaction; Enhanced onboarding & mentorship
+8,Research & Development,Manager,55,5,19859,Yes,3,1,56.00000000000001,Medium,Reduce overtime; Address job satisfaction
+18,Research & Development,Research Director,54,4,19406,No,2,1,56.00000000000001,Medium,Improve work-life balance; Address job satisfaction
+1392,Sales,Sales Representative,35,5,2430,No,3,3,56.00000000000001,Medium,Review compensation; Consider promotion/career development
+688,Research & Development,Manufacturing Director,41,20,13570,No,3,2,56.00000000000001,Medium,Address job satisfaction
+444,Research & Development,Research Scientist,33,14,2781,No,3,4,56.00000000000001,Medium,Review compensation; Consider promotion/career development
+571,Research & Development,Healthcare Representative,46,9,8926,No,4,2,56.00000000000001,Medium,Address job satisfaction
+379,Research & Development,Research Scientist,34,16,4809,No,3,3,56.00000000000001,Medium,Monitor regularly
+392,Sales,Sales Executive,41,22,10447,Yes,4,3,56.00000000000001,Medium,Reduce overtime; Consider promotion/career development
+399,Research & Development,Research Scientist,31,5,4821,Yes,3,4,56.00000000000001,Medium,Reduce overtime
+405,Research & Development,Research Scientist,26,5,2368,No,2,2,56.00000000000001,Medium,Review compensation; Improve work-life balance; Address job satisfaction; Consider promotion/career development
+1319,Research & Development,Research Director,46,4,19081,No,3,2,56.00000000000001,Medium,Address job satisfaction
+112,Research & Development,Manufacturing Director,22,2,4775,No,1,4,56.00000000000001,Medium,Improve work-life balance
+582,Research & Development,Research Scientist,22,2,2323,No,3,4,56.00000000000001,Medium,Review compensation
+736,Research & Development,Manufacturing Director,25,4,4898,No,3,3,56.00000000000001,Medium,Monitor regularly
+947,Sales,Manager,57,1,14118,No,2,4,56.00000000000001,Medium,Improve work-life balance; Enhanced onboarding & mentorship
+80,Research & Development,Research Scientist,34,11,5433,No,3,2,56.00000000000001,Medium,Address job satisfaction; Consider promotion/career development
+1379,Research & Development,Research Scientist,52,8,4941,No,2,2,56.00000000000001,Medium,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+1389,Research & Development,Research Scientist,33,8,2756,No,3,2,56.00000000000001,Medium,Review compensation; Address job satisfaction
+909,Research & Development,Manufacturing Director,31,13,10648,No,4,2,56.00000000000001,Medium,Address job satisfaction
+1374,Research & Development,Research Director,50,4,17639,No,3,3,56.00000000000001,Medium,Monitor regularly
+922,Research & Development,Laboratory Technician,34,1,2008,No,3,2,56.00000000000001,Medium,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+929,Research & Development,Research Scientist,31,4,3065,Yes,4,1,56.00000000000001,Medium,Reduce overtime; Address job satisfaction
+1349,Research & Development,Research Scientist,36,1,6962,Yes,3,2,56.00000000000001,Medium,Reduce overtime; Address job satisfaction; Enhanced onboarding & mentorship
+1366,Research & Development,Research Scientist,38,20,2133,Yes,3,2,56.00000000000001,Medium,Reduce overtime; Review compensation; Address job satisfaction
+924,Research & Development,Research Scientist,42,3,6545,Yes,3,1,56.00000000000001,Medium,Reduce overtime; Address job satisfaction
+1341,Research & Development,Research Director,43,14,17603,No,3,3,56.00000000000001,Medium,Consider promotion/career development
+1344,Sales,Sales Executive,41,19,6151,No,3,2,56.00000000000001,Medium,Address job satisfaction; Consider promotion/career development
+91,Research & Development,Laboratory Technician,34,15,3986,No,4,4,56.00000000000001,Medium,Consider promotion/career development
+90,Sales,Sales Executive,42,0,5087,Yes,3,4,56.00000000000001,Medium,Reduce overtime; Enhanced onboarding & mentorship
+88,Sales,Sales Executive,45,19,8865,No,3,4,56.00000000000001,Medium,Consider promotion/career development
+1290,Research & Development,Research Scientist,42,20,4332,No,3,3,56.00000000000001,Medium,Monitor regularly
+124,Research & Development,Laboratory Technician,28,1,2408,Yes,3,2,56.00000000000001,Medium,Reduce overtime; Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+1302,Research & Development,Research Scientist,35,2,2506,No,3,3,56.00000000000001,Medium,Review compensation
+890,Research & Development,Research Director,43,1,16627,Yes,2,4,56.00000000000001,Medium,Reduce overtime; Improve work-life balance; Enhanced onboarding & mentorship
+1024,Research & Development,Research Director,42,13,13348,No,4,1,56.00000000000001,Medium,Address job satisfaction; Consider promotion/career development
+226,Sales,Sales Executive,42,20,4907,No,3,3,56.00000000000001,Medium,Consider promotion/career development
+218,Sales,Sales Executive,32,14,10400,No,2,4,56.00000000000001,Medium,Improve work-life balance; Consider promotion/career development
+1186,Sales,Sales Executive,40,5,6852,No,4,2,56.00000000000001,Medium,Address job satisfaction
+1201,Research & Development,Laboratory Technician,42,5,5231,Yes,2,4,56.00000000000001,Medium,Reduce overtime; Improve work-life balance
+873,Research & Development,Research Scientist,34,5,2307,Yes,3,1,56.00000000000001,Medium,Reduce overtime; Review compensation; Address job satisfaction
+542,Research & Development,Laboratory Technician,41,5,2289,No,3,1,56.00000000000001,Medium,Review compensation; Address job satisfaction
+777,Human Resources,Manager,41,22,19189,No,3,3,56.00000000000001,Medium,Monitor regularly
+522,Research & Development,Manufacturing Director,53,33,10169,No,3,4,56.00000000000001,Medium,Monitor regularly
+209,Research & Development,Healthcare Representative,50,30,11245,Yes,3,3,56.00000000000001,Medium,Reduce overtime; Consider promotion/career development
+206,Research & Development,Research Scientist,49,4,3580,No,3,1,56.00000000000001,Medium,Address job satisfaction
+512,Research & Development,Manufacturing Director,37,7,5993,No,4,3,56.00000000000001,Medium,Monitor regularly
+1223,Research & Development,Research Scientist,45,1,9724,No,3,1,56.00000000000001,Medium,Address job satisfaction; Enhanced onboarding & mentorship
+742,Sales,Sales Executive,47,23,12936,No,1,3,56.00000000000001,Medium,Improve work-life balance; Consider promotion/career development
+556,Research & Development,Manager,33,7,13610,Yes,4,3,56.00000000000001,Medium,Reduce overtime; Consider promotion/career development
+391,Research & Development,Laboratory Technician,30,9,4627,No,3,4,56.00000000000001,Medium,Consider promotion/career development
+381,Human Resources,Human Resources,39,5,5204,No,3,4,56.00000000000001,Medium,Monitor regularly
+1264,Research & Development,Research Scientist,40,3,2345,No,4,3,56.00000000000001,Medium,Review compensation
+1256,Research & Development,Manufacturing Director,36,3,4663,Yes,3,3,56.00000000000001,Medium,Reduce overtime
+565,Research & Development,Manufacturing Director,58,10,10008,Yes,2,1,56.00000000000001,Medium,Reduce overtime; Improve work-life balance; Address job satisfaction; Consider promotion/career development
+163,Research & Development,Research Scientist,40,20,5605,No,3,2,56.00000000000001,Medium,Address job satisfaction
+154,Research & Development,Manufacturing Director,43,1,4765,No,4,2,56.00000000000001,Medium,Address job satisfaction; Enhanced onboarding & mentorship
+871,Research & Development,Research Scientist,37,8,3936,No,1,2,56.00000000000001,Medium,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+460,Research & Development,Research Scientist,36,11,3692,No,2,2,56.00000000000001,Medium,Improve work-life balance; Address job satisfaction
+1234,Research & Development,Manufacturing Director,35,17,10685,Yes,3,3,56.00000000000001,Medium,Reduce overtime; Consider promotion/career development
+1017,Research & Development,Research Scientist,47,6,3420,No,2,4,56.00000000000001,Medium,Improve work-life balance
+764,Research & Development,Healthcare Representative,39,18,12169,No,3,4,56.00000000000001,Medium,Consider promotion/career development
+1188,Research & Development,Research Director,31,11,11031,No,4,3,56.00000000000001,Medium,Consider promotion/career development
+1168,Sales,Sales Executive,34,15,9725,No,2,4,56.00000000000001,Medium,Improve work-life balance
+791,Research & Development,Laboratory Technician,41,18,4721,Yes,3,1,56.00000000000001,Medium,Reduce overtime; Address job satisfaction
+1185,Research & Development,Healthcare Representative,42,10,4089,No,3,4,56.00000000000001,Medium,Monitor regularly
+1116,Research & Development,Research Director,46,3,17861,No,1,3,56.00000000000001,Medium,Improve work-life balance
+278,Research & Development,Research Scientist,55,5,2662,No,4,4,56.00000000000001,Medium,Review compensation
+256,Human Resources,Manager,42,20,16799,No,3,1,56.00000000000001,Medium,Address job satisfaction
+1036,Sales,Sales Executive,45,5,5006,Yes,4,1,56.00000000000001,Medium,Reduce overtime; Address job satisfaction
+1068,Research & Development,Laboratory Technician,36,17,2743,No,3,1,56.00000000000001,Medium,Review compensation; Address job satisfaction; Consider promotion/career development
+242,Research & Development,Research Scientist,34,15,5747,Yes,3,4,56.00000000000001,Medium,Reduce overtime; Consider promotion/career development
+1057,Research & Development,Healthcare Representative,36,3,5347,No,2,3,56.00000000000001,Medium,Improve work-life balance
+1123,Research & Development,Laboratory Technician,44,3,2818,Yes,2,4,56.00000000000001,Medium,Reduce overtime; Review compensation; Improve work-life balance
+237,Sales,Manager,43,17,16064,Yes,3,4,56.00000000000001,Medium,Reduce overtime
+254,Human Resources,Human Resources,45,5,9756,No,4,3,56.00000000000001,Medium,Monitor regularly
+1087,Sales,Sales Executive,24,5,4260,Yes,4,3,56.00000000000001,Medium,Reduce overtime
+848,Research & Development,Manager,48,22,17174,No,3,4,56.00000000000001,Medium,Consider promotion/career development
+839,Sales,Manager,40,20,18041,No,3,3,56.00000000000001,Medium,Monitor regularly
+1084,Research & Development,Laboratory Technician,42,5,2766,No,2,2,56.00000000000001,Medium,Review compensation; Improve work-life balance; Address job satisfaction
+813,Sales,Sales Executive,60,11,5220,Yes,3,4,56.00000000000001,Medium,Reduce overtime
+820,Research & Development,Research Scientist,45,2,2654,No,2,4,56.00000000000001,Medium,Review compensation; Improve work-life balance
+821,Sales,Sales Executive,30,3,4779,No,3,1,56.00000000000001,Medium,Address job satisfaction
+826,Research & Development,Manufacturing Director,39,21,12742,No,3,4,56.00000000000001,Medium,Consider promotion/career development
+825,Sales,Sales Executive,43,21,10231,No,4,4,56.00000000000001,Medium,Consider promotion/career development
+623,Research & Development,Laboratory Technician,26,5,3955,No,3,1,56.00000000000001,Medium,Address job satisfaction
+627,Research & Development,Research Scientist,27,5,3058,Yes,2,2,56.00000000000001,Medium,Reduce overtime; Improve work-life balance; Address job satisfaction
+48,Human Resources,Human Resources,30,5,2064,No,4,3,56.00000000000001,Medium,Review compensation
+52,Sales,Manager,50,1,19331,Yes,3,3,56.00000000000001,Medium,Reduce overtime; Enhanced onboarding & mentorship
+644,Research & Development,Laboratory Technician,36,5,2571,No,3,4,56.00000000000001,Medium,Review compensation
+619,Research & Development,Research Scientist,34,5,3815,Yes,4,3,56.00000000000001,Medium,Reduce overtime
+1443,Research & Development,Research Scientist,35,17,6646,No,3,4,56.00000000000001,Medium,Consider promotion/career development
+1461,Research & Development,Manager,48,5,16885,No,2,4,56.00000000000001,Medium,Improve work-life balance
+1455,Research & Development,Healthcare Representative,38,9,7625,No,2,4,56.00000000000001,Medium,Improve work-life balance
+1449,Sales,Sales Executive,38,3,4198,No,4,2,56.00000000000001,Medium,Address job satisfaction
+1091,Research & Development,Manager,53,7,18606,No,3,3,55.00000000000001,Medium,Consider promotion/career development
+484,Sales,Sales Executive,26,5,6272,No,4,2,55.00000000000001,Medium,Address job satisfaction
+854,Sales,Manager,53,17,14852,No,4,3,55.00000000000001,Medium,Consider promotion/career development
+1080,Sales,Sales Executive,36,2,6134,Yes,3,1,55.00000000000001,Medium,Reduce overtime; Address job satisfaction
+1126,Sales,Sales Executive,30,2,4736,Yes,4,3,55.00000000000001,Medium,Reduce overtime
+702,Sales,Manager,46,11,18789,No,3,2,55.00000000000001,Medium,Address job satisfaction
+488,Research & Development,Laboratory Technician,37,18,3034,No,2,1,55.00000000000001,Medium,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+864,Research & Development,Laboratory Technician,36,1,3038,No,3,4,55.00000000000001,Medium,Enhanced onboarding & mentorship
+827,Research & Development,Laboratory Technician,39,3,2232,No,3,3,55.00000000000001,Medium,Review compensation
+1129,Research & Development,Research Scientist,32,6,4087,No,2,1,55.00000000000001,Medium,Improve work-life balance; Address job satisfaction
+414,Human Resources,Human Resources,31,3,2109,No,3,2,55.00000000000001,Medium,Review compensation; Address job satisfaction
+913,Research & Development,Manufacturing Director,36,4,5131,No,3,2,55.00000000000001,Medium,Address job satisfaction
+1390,Research & Development,Manufacturing Director,28,8,6549,No,2,2,55.00000000000001,Medium,Improve work-life balance; Address job satisfaction
+239,Sales,Sales Executive,37,5,6502,No,4,4,55.00000000000001,Medium,Monitor regularly
+946,Sales,Sales Executive,31,10,5476,No,3,4,55.00000000000001,Medium,Monitor regularly
+954,Research & Development,Research Director,38,18,13206,No,3,3,55.00000000000001,Medium,Monitor regularly
+210,Research & Development,Research Director,58,9,19701,Yes,3,1,55.00000000000001,Medium,Reduce overtime; Address job satisfaction
+204,Sales,Sales Executive,46,7,10096,No,4,4,55.00000000000001,Medium,Consider promotion/career development
+936,Sales,Manager,44,22,18213,No,3,2,55.00000000000001,Medium,Address job satisfaction
+436,Research & Development,Research Scientist,48,8,2367,No,2,1,55.00000000000001,Medium,Review compensation; Improve work-life balance; Address job satisfaction; Consider promotion/career development
+516,Research & Development,Research Director,33,13,11691,No,4,3,55.00000000000001,Medium,Monitor regularly
+243,Research & Development,Research Scientist,47,8,5467,No,4,2,55.00000000000001,Medium,Address job satisfaction
+421,Research & Development,Research Scientist,37,4,2326,Yes,2,4,55.00000000000001,Medium,Reduce overtime; Review compensation; Improve work-life balance
+335,Sales,Sales Executive,25,3,6232,No,2,3,55.00000000000001,Medium,Improve work-life balance
+233,Sales,Sales Representative,29,2,2297,No,3,2,55.00000000000001,Medium,Review compensation; Address job satisfaction
+343,Research & Development,Laboratory Technician,27,3,4621,No,3,3,55.00000000000001,Medium,Monitor regularly
+1345,Sales,Manager,46,7,16872,Yes,2,2,55.00000000000001,Medium,Reduce overtime; Improve work-life balance; Address job satisfaction; Consider promotion/career development
+1363,Sales,Sales Executive,39,5,6120,Yes,4,4,55.00000000000001,Medium,Reduce overtime
+1059,Research & Development,Research Scientist,44,20,4541,No,3,4,55.00000000000001,Medium,Consider promotion/career development
+431,Research & Development,Research Director,50,8,19237,Yes,2,3,55.00000000000001,Medium,Reduce overtime; Improve work-life balance; Consider promotion/career development
+695,Research & Development,Research Director,44,22,19049,Yes,2,4,55.00000000000001,Medium,Reduce overtime; Improve work-life balance
+901,Research & Development,Manager,40,20,19033,No,3,3,55.00000000000001,Medium,Consider promotion/career development
+903,Research & Development,Laboratory Technician,26,3,2305,No,4,3,55.00000000000001,Medium,Review compensation
+1356,Research & Development,Laboratory Technician,36,1,3688,No,3,4,55.00000000000001,Medium,Enhanced onboarding & mentorship
+498,Research & Development,Laboratory Technician,45,5,2270,No,3,4,55.00000000000001,Medium,Review compensation
+1029,Sales,Sales Executive,58,37,13872,No,2,3,55.00000000000001,Medium,Improve work-life balance
+528,Research & Development,Healthcare Representative,29,6,6623,Yes,3,4,55.00000000000001,Medium,Reduce overtime
+229,Sales,Sales Representative,25,1,2413,Yes,3,2,55.00000000000001,Medium,Reduce overtime; Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+455,Sales,Sales Representative,48,9,2655,Yes,3,3,55.00000000000001,Medium,Reduce overtime; Review compensation; Consider promotion/career development
+728,Sales,Sales Executive,29,0,6644,No,3,2,55.00000000000001,Medium,Address job satisfaction; Enhanced onboarding & mentorship
+1382,Research & Development,Laboratory Technician,28,6,3196,No,3,1,55.00000000000001,Medium,Address job satisfaction
+1383,Sales,Sales Executive,27,8,6500,No,2,3,55.00000000000001,Medium,Improve work-life balance
+1296,Research & Development,Manufacturing Director,38,5,4855,No,3,2,55.00000000000001,Medium,Address job satisfaction
+1424,Research & Development,Research Scientist,48,0,2259,No,2,3,55.00000000000001,Medium,Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+1420,Research & Development,Laboratory Technician,24,1,2694,No,3,2,55.00000000000001,Medium,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+1397,Research & Development,Laboratory Technician,36,5,2810,No,3,2,55.00000000000001,Medium,Review compensation; Address job satisfaction
+613,Research & Development,Manager,52,5,16555,No,1,4,55.00000000000001,Medium,Improve work-life balance
+283,Research & Development,Healthcare Representative,57,5,9439,Yes,1,4,55.00000000000001,Medium,Reduce overtime; Improve work-life balance
+289,Human Resources,Human Resources,31,1,2956,No,3,1,55.00000000000001,Medium,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+570,Sales,Sales Executive,33,4,4373,No,3,1,55.00000000000001,Medium,Address job satisfaction
+563,Sales,Manager,50,7,19517,No,2,4,55.00000000000001,Medium,Improve work-life balance
+567,Research & Development,Research Scientist,26,5,2007,No,3,3,55.00000000000001,Medium,Review compensation
+573,Research & Development,Healthcare Representative,45,20,13496,Yes,3,4,55.00000000000001,Medium,Reduce overtime; Consider promotion/career development
+149,Research & Development,Research Scientist,28,8,3660,No,4,3,55.00000000000001,Medium,Monitor regularly
+778,Sales,Sales Executive,30,2,5301,No,2,3,55.00000000000001,Medium,Improve work-life balance
+1237,Sales,Manager,55,36,19586,No,3,4,55.00000000000001,Medium,Monitor regularly
+994,Research & Development,Healthcare Representative,29,7,6384,No,3,3,55.00000000000001,Medium,Monitor regularly
+348,Research & Development,Manufacturing Director,37,4,5768,No,2,3,55.00000000000001,Medium,Improve work-life balance
+869,Sales,Manager,58,16,16291,No,2,2,55.00000000000001,Medium,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+874,Research & Development,Manufacturing Director,29,10,9980,No,3,1,55.00000000000001,Medium,Address job satisfaction; Consider promotion/career development
+746,Sales,Sales Executive,34,5,9713,Yes,3,4,55.00000000000001,Medium,Reduce overtime
+767,Research & Development,Research Scientist,34,0,2979,No,3,4,55.00000000000001,Medium,Review compensation; Enhanced onboarding & mentorship
+1182,Research & Development,Manager,55,19,19187,No,3,3,55.00000000000001,Medium,Consider promotion/career development
+879,Human Resources,Human Resources,33,4,2277,Yes,4,2,55.00000000000001,Medium,Reduce overtime; Review compensation; Address job satisfaction
+1202,Sales,Sales Executive,50,6,6728,No,3,3,55.00000000000001,Medium,Monitor regularly
+1227,Research & Development,Healthcare Representative,33,6,5488,Yes,3,2,55.00000000000001,Medium,Reduce overtime; Address job satisfaction
+1026,Research & Development,Manager,54,14,16032,No,3,4,55.00000000000001,Medium,Monitor regularly
+5,Research & Development,Research Scientist,40,5,2001,No,3,3,55.00000000000001,Medium,Review compensation
+686,Research & Development,Research Director,37,16,13744,Yes,3,4,55.00000000000001,Medium,Reduce overtime; Consider promotion/career development
+683,Human Resources,Manager,50,32,18200,No,3,2,55.00000000000001,Medium,Address job satisfaction; Consider promotion/career development
+771,Research & Development,Research Scientist,41,1,3072,No,2,1,54.0,Medium,Improve work-life balance; Address job satisfaction; Enhanced onboarding & mentorship
+403,Sales,Sales Executive,29,10,7639,No,2,4,54.0,Medium,Improve work-life balance
+937,Sales,Sales Executive,25,3,4851,No,3,2,54.0,Medium,Address job satisfaction
+107,Research & Development,Research Director,41,22,19545,No,3,3,54.0,Medium,Consider promotion/career development
+900,Human Resources,Human Resources,29,2,2335,Yes,3,1,54.0,Medium,Reduce overtime; Review compensation; Address job satisfaction
+481,Research & Development,Laboratory Technician,30,10,5126,Yes,2,4,54.0,Medium,Reduce overtime; Improve work-life balance
+593,Research & Development,Laboratory Technician,33,4,3408,No,3,4,54.0,Medium,Monitor regularly
+1172,Research & Development,Research Scientist,27,0,1706,No,2,4,54.0,Medium,Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+476,Research & Development,Laboratory Technician,29,4,2532,No,3,4,54.0,Medium,Review compensation
+425,Research & Development,Research Scientist,37,1,4680,No,3,4,54.0,Medium,Enhanced onboarding & mentorship
+221,Research & Development,Healthcare Representative,37,6,5731,No,3,4,54.0,Medium,Monitor regularly
+435,Sales,Sales Executive,33,5,5376,No,3,1,54.0,Medium,Address job satisfaction
+1042,Research & Development,Manager,40,19,16823,No,3,1,54.0,Medium,Address job satisfaction; Consider promotion/career development
+495,Sales,Manager,51,20,16307,No,2,3,54.0,Medium,Improve work-life balance; Consider promotion/career development
+678,Research & Development,Healthcare Representative,44,4,6465,Yes,4,4,54.0,Medium,Reduce overtime
+274,Research & Development,Research Scientist,32,10,6220,No,3,2,54.0,Medium,Address job satisfaction
+1070,Research & Development,Research Scientist,34,4,3280,No,3,4,54.0,Medium,Monitor regularly
+840,Research & Development,Laboratory Technician,45,24,5210,No,3,1,54.0,Medium,Address job satisfaction; Consider promotion/career development
+1072,Research & Development,Laboratory Technician,25,3,3669,No,2,4,54.0,Medium,Improve work-life balance
+27,Research & Development,Laboratory Technician,24,1,2296,No,3,1,54.0,Medium,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+1121,Sales,Sales Executive,48,2,5486,No,3,1,54.0,Medium,Address job satisfaction
+493,Research & Development,Healthcare Representative,49,15,13966,Yes,3,3,54.0,Medium,Reduce overtime
+603,Research & Development,Research Scientist,37,5,2782,Yes,2,1,54.0,Medium,Reduce overtime; Review compensation; Improve work-life balance; Address job satisfaction; Consider promotion/career development
+201,Sales,Sales Executive,40,8,5473,No,4,1,54.0,Medium,Address job satisfaction; Consider promotion/career development
+535,Research & Development,Manufacturing Director,38,5,7756,Yes,4,3,54.0,Medium,Reduce overtime
+1200,Sales,Sales Executive,55,19,13695,Yes,2,3,54.0,Medium,Reduce overtime; Improve work-life balance
+471,Research & Development,Healthcare Representative,28,8,5661,No,3,1,54.0,Medium,Address job satisfaction
+1258,Research & Development,Manager,52,9,17099,No,2,4,54.0,Medium,Improve work-life balance; Consider promotion/career development
+136,Research & Development,Manufacturing Director,27,9,8793,No,2,1,54.0,Medium,Improve work-life balance; Address job satisfaction
+716,Research & Development,Research Scientist,37,10,4285,No,3,4,54.0,Medium,Monitor regularly
+480,Research & Development,Healthcare Representative,55,8,6385,Yes,3,2,54.0,Medium,Reduce overtime; Address job satisfaction; Consider promotion/career development
+1435,Research & Development,Research Scientist,29,7,3291,No,2,2,54.0,Medium,Improve work-life balance; Address job satisfaction
+689,Research & Development,Manager,30,9,11916,Yes,3,1,54.0,Medium,Reduce overtime; Address job satisfaction
+1398,Sales,Sales Executive,24,5,4162,Yes,3,3,54.0,Medium,Reduce overtime
+264,Sales,Sales Executive,48,2,8120,No,3,2,54.0,Medium,Address job satisfaction
+266,Research & Development,Research Director,54,10,17779,No,3,4,54.0,Medium,Monitor regularly
+293,Research & Development,Manager,45,20,16792,No,3,4,54.0,Medium,Consider promotion/career development
+1414,Research & Development,Laboratory Technician,28,1,2596,No,3,2,54.0,Medium,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+7,Sales,Sales Executive,40,4,7457,Yes,2,4,54.0,Medium,Reduce overtime; Improve work-life balance
+1315,Research & Development,Laboratory Technician,40,7,2213,Yes,3,3,54.0,Medium,Reduce overtime; Review compensation
+596,Research & Development,Laboratory Technician,33,1,2008,No,2,3,54.0,Medium,Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+122,Sales,Sales Executive,31,8,6929,No,2,4,54.0,Medium,Improve work-life balance; Consider promotion/career development
+130,Research & Development,Healthcare Representative,44,8,7879,Yes,3,4,54.0,Medium,Reduce overtime; Consider promotion/career development
+78,Sales,Sales Executive,45,8,4805,No,4,2,54.0,Medium,Address job satisfaction
+1273,Sales,Manager,45,9,17650,No,4,4,54.0,Medium,Monitor regularly
+373,Sales,Sales Executive,40,0,4327,No,3,2,54.0,Medium,Address job satisfaction; Enhanced onboarding & mentorship
+988,Research & Development,Research Scientist,44,10,2011,No,3,4,54.0,Medium,Review compensation; Consider promotion/career development
+1298,Research & Development,Manufacturing Director,27,6,6142,Yes,3,2,54.0,Medium,Reduce overtime; Address job satisfaction
+894,Research & Development,Healthcare Representative,36,5,6842,No,3,1,54.0,Medium,Address job satisfaction
+987,Research & Development,Research Scientist,56,5,4963,Yes,3,2,54.0,Medium,Reduce overtime; Address job satisfaction; Consider promotion/career development
+137,Sales,Sales Executive,37,1,6334,No,3,3,54.0,Medium,Enhanced onboarding & mentorship
+1255,Research & Development,Research Scientist,41,6,5467,Yes,2,4,54.0,Medium,Reduce overtime; Improve work-life balance
+152,Research & Development,Research Scientist,30,11,3579,Yes,3,2,54.0,Medium,Reduce overtime; Address job satisfaction; Consider promotion/career development
+1179,Research & Development,Research Scientist,27,5,2187,No,2,3,54.0,Medium,Review compensation; Improve work-life balance
+1014,Research & Development,Manufacturing Director,54,5,5485,Yes,3,1,54.0,Medium,Reduce overtime; Address job satisfaction
+469,Research & Development,Manufacturing Director,24,4,4377,No,3,3,54.0,Medium,Monitor regularly
+761,Research & Development,Healthcare Representative,44,2,5033,No,3,1,54.0,Medium,Address job satisfaction
+543,Research & Development,Laboratory Technician,59,1,2670,Yes,2,1,54.0,Medium,Reduce overtime; Review compensation; Improve work-life balance; Address job satisfaction; Enhanced onboarding & mentorship
+330,Sales,Sales Executive,30,8,7264,No,4,3,54.0,Medium,Consider promotion/career development
+1183,Research & Development,Research Scientist,26,3,2886,No,1,4,54.0,Medium,Review compensation; Improve work-life balance
+196,Sales,Sales Executive,44,12,13320,Yes,3,4,54.0,Medium,Reduce overtime; Consider promotion/career development
+1030,Research & Development,Manufacturing Director,37,6,6347,No,2,4,54.0,Medium,Improve work-life balance
+1028,Research & Development,Manager,42,22,19232,No,3,4,54.0,Medium,Consider promotion/career development
+526,Research & Development,Manager,42,22,17665,No,3,1,54.0,Medium,Address job satisfaction; Consider promotion/career development
+363,Research & Development,Manager,55,5,14756,Yes,3,3,54.0,Medium,Reduce overtime
+1429,Research & Development,Research Scientist,58,2,2372,No,3,3,54.0,Medium,Review compensation
+606,Research & Development,Research Scientist,23,4,2904,No,2,4,54.0,Medium,Review compensation; Improve work-life balance
+1305,Research & Development,Manager,56,5,19943,No,3,1,54.0,Medium,Address job satisfaction; Consider promotion/career development
+815,Research & Development,Research Scientist,25,2,2889,No,3,4,54.0,Medium,Review compensation
+128,Research & Development,Research Director,43,8,19740,No,3,4,54.0,Medium,Monitor regularly
+133,Sales,Sales Executive,37,1,6694,Yes,3,4,54.0,Medium,Reduce overtime; Enhanced onboarding & mentorship
+297,Sales,Sales Representative,32,1,2827,No,3,1,53.0,Medium,Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+807,Research & Development,Manufacturing Director,31,10,6179,Yes,2,3,53.0,Medium,Reduce overtime; Improve work-life balance; Consider promotion/career development
+1459,Research & Development,Research Scientist,27,5,2517,No,3,3,53.0,Medium,Review compensation
+956,Research & Development,Research Director,33,6,16184,No,3,3,53.0,Medium,Monitor regularly
+311,Research & Development,Manufacturing Director,56,19,13402,Yes,3,2,53.0,Medium,Reduce overtime; Address job satisfaction; Consider promotion/career development
+1325,Research & Development,Research Scientist,43,20,4081,Yes,1,3,53.0,Medium,Reduce overtime; Improve work-life balance
+1452,Sales,Sales Executive,38,8,5605,Yes,3,1,53.0,Medium,Reduce overtime; Address job satisfaction; Consider promotion/career development
+1348,Research & Development,Research Director,46,2,19627,No,3,4,53.0,Medium,Monitor regularly
+1433,Research & Development,Research Director,51,10,12490,No,1,2,53.0,Medium,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+818,Research & Development,Research Scientist,29,3,3760,No,3,4,53.0,Medium,Monitor regularly
+1019,Research & Development,Research Scientist,41,4,2127,Yes,2,3,53.0,Medium,Reduce overtime; Review compensation; Improve work-life balance
+870,Human Resources,Human Resources,44,2,3195,Yes,3,4,53.0,Medium,Reduce overtime
+200,Research & Development,Healthcare Representative,45,23,10748,No,2,3,53.0,Medium,Improve work-life balance; Consider promotion/career development
+443,Research & Development,Manager,39,21,17068,Yes,3,1,53.0,Medium,Reduce overtime; Address job satisfaction; Consider promotion/career development
+173,Research & Development,Research Scientist,42,6,2936,No,2,3,53.0,Medium,Review compensation; Improve work-life balance
+1214,Research & Development,Laboratory Technician,31,1,1129,Yes,3,4,53.0,Medium,Reduce overtime; Review compensation; Enhanced onboarding & mentorship
+473,Research & Development,Manufacturing Director,47,19,5067,Yes,4,3,53.0,Medium,Reduce overtime
+912,Research & Development,Manufacturing Director,36,3,4941,No,3,2,53.0,Medium,Address job satisfaction
+424,Research & Development,Manager,55,36,19045,Yes,3,1,53.0,Medium,Reduce overtime; Address job satisfaction; Consider promotion/career development
+474,Human Resources,Manager,41,21,19141,No,2,4,53.0,Medium,Improve work-life balance; Consider promotion/career development
+338,Research & Development,Laboratory Technician,32,10,5309,No,3,4,53.0,Medium,Consider promotion/career development
+248,Research & Development,Research Scientist,25,4,3424,No,2,1,53.0,Medium,Improve work-life balance; Address job satisfaction
+118,Research & Development,Healthcare Representative,30,7,5294,No,3,3,53.0,Medium,Monitor regularly
+423,Research & Development,Manufacturing Director,47,22,10333,Yes,3,2,53.0,Medium,Reduce overtime; Address job satisfaction; Consider promotion/career development
+948,Sales,Sales Representative,39,1,2086,No,4,4,53.0,Medium,Review compensation; Enhanced onboarding & mentorship
+690,Sales,Sales Executive,37,6,9525,No,2,4,53.0,Medium,Improve work-life balance
+602,Research & Development,Research Scientist,23,2,3505,No,3,3,53.0,Medium,Monitor regularly
+387,Research & Development,Laboratory Technician,35,10,3407,No,2,3,53.0,Medium,Improve work-life balance; Consider promotion/career development
+1291,Research & Development,Manager,42,20,17861,Yes,2,3,53.0,Medium,Reduce overtime; Improve work-life balance
+76,Research & Development,Laboratory Technician,31,2,3978,No,2,3,53.0,Medium,Improve work-life balance
+961,Research & Development,Research Director,37,5,13603,Yes,3,4,53.0,Medium,Reduce overtime
+61,Research & Development,Manufacturing Director,47,5,5070,No,3,4,53.0,Medium,Monitor regularly
+991,Sales,Sales Executive,30,4,4115,No,3,1,53.0,Medium,Address job satisfaction
+891,Research & Development,Research Scientist,29,1,2451,No,2,3,53.0,Medium,Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+729,Research & Development,Healthcare Representative,44,22,10248,No,3,4,53.0,Medium,Consider promotion/career development
+983,Human Resources,Human Resources,34,10,4490,No,4,2,53.0,Medium,Address job satisfaction
+121,Sales,Manager,52,32,19845,No,3,4,53.0,Medium,Consider promotion/career development
+1280,Human Resources,Human Resources,44,20,10482,No,3,1,53.0,Medium,Address job satisfaction
+997,Research & Development,Research Director,54,20,17328,No,2,4,53.0,Medium,Improve work-life balance; Consider promotion/career development
+561,Sales,Sales Executive,26,0,4306,No,3,3,53.0,Medium,Enhanced onboarding & mentorship
+927,Sales,Sales Executive,41,10,8392,No,3,1,52.0,Medium,Address job satisfaction
+1430,Research & Development,Research Scientist,38,5,4771,No,4,4,52.0,Medium,Monitor regularly
+705,Research & Development,Research Scientist,22,4,2328,Yes,2,2,52.0,Medium,Reduce overtime; Review compensation; Improve work-life balance; Address job satisfaction
+708,Sales,Manager,46,26,17048,No,3,1,52.0,Medium,Address job satisfaction; Consider promotion/career development
+28,Research & Development,Manager,39,19,17123,Yes,3,2,52.0,Medium,Reduce overtime; Address job satisfaction; Consider promotion/career development
+798,Sales,Sales Executive,29,7,8268,Yes,3,2,52.0,Medium,Reduce overtime; Address job satisfaction
+1415,Research & Development,Research Director,48,22,19665,No,3,2,52.0,Medium,Address job satisfaction; Consider promotion/career development
+33,Human Resources,Human Resources,38,7,2844,No,4,3,52.0,Medium,Review compensation; Consider promotion/career development
+590,Sales,Sales Executive,38,8,8740,Yes,3,3,52.0,Medium,Reduce overtime
+1355,Research & Development,Research Scientist,34,4,2996,No,3,1,52.0,Medium,Review compensation; Address job satisfaction
+670,Research & Development,Laboratory Technician,28,9,6674,No,3,4,52.0,Medium,Consider promotion/career development
+3,Research & Development,Research Scientist,51,10,2461,Yes,4,3,52.0,Medium,Reduce overtime; Review compensation
+1050,Sales,Sales Executive,35,2,5440,Yes,2,4,52.0,Medium,Reduce overtime; Improve work-life balance
+906,Research & Development,Laboratory Technician,29,7,3339,Yes,3,3,52.0,Medium,Reduce overtime; Consider promotion/career development
+1136,Research & Development,Healthcare Representative,40,8,4244,No,3,2,52.0,Medium,Address job satisfaction
+1090,Sales,Sales Executive,36,10,7596,No,3,3,52.0,Medium,Consider promotion/career development
+857,Research & Development,Healthcare Representative,36,17,10096,No,3,3,52.0,Medium,Consider promotion/career development
+214,Research & Development,Research Scientist,32,6,3298,Yes,2,2,52.0,Medium,Reduce overtime; Improve work-life balance; Address job satisfaction
+108,Research & Development,Research Scientist,38,13,4735,No,4,4,52.0,Medium,Monitor regularly
+114,Research & Development,Healthcare Representative,42,6,4523,No,4,4,52.0,Medium,Monitor regularly
+1324,Research & Development,Research Director,36,8,11713,No,3,1,52.0,Medium,Address job satisfaction
+507,Research & Development,Manufacturing Director,24,4,4011,No,2,3,52.0,Medium,Improve work-life balance
+783,Sales,Sales Executive,38,16,10609,No,2,3,52.0,Medium,Improve work-life balance; Consider promotion/career development
+67,Sales,Sales Representative,52,9,3482,No,2,4,52.0,Medium,Improve work-life balance
+151,Sales,Sales Executive,29,10,8620,No,3,3,52.0,Medium,Monitor regularly
+192,Sales,Sales Executive,36,9,7644,No,3,4,52.0,Medium,Monitor regularly
+884,Research & Development,Manufacturing Director,45,3,9380,Yes,4,4,52.0,Medium,Reduce overtime
+773,Research & Development,Manager,42,22,18880,No,2,3,52.0,Medium,Improve work-life balance; Consider promotion/career development
+230,Research & Development,Research Director,53,9,16598,No,2,2,52.0,Medium,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+1016,Research & Development,Manufacturing Director,53,3,12965,Yes,2,3,52.0,Medium,Reduce overtime; Improve work-life balance
+1249,Research & Development,Research Scientist,30,1,1274,No,2,3,52.0,Medium,Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+990,Research & Development,Research Scientist,42,2,2759,Yes,3,3,52.0,Medium,Reduce overtime; Review compensation
+744,Research & Development,Research Scientist,29,2,4787,Yes,4,4,52.0,Medium,Reduce overtime
+575,Sales,Sales Executive,32,14,10422,No,3,4,52.0,Medium,Consider promotion/career development
+538,Research & Development,Research Scientist,35,16,5208,No,3,1,52.0,Medium,Address job satisfaction
+145,Research & Development,Healthcare Representative,33,9,5968,No,3,3,52.0,Medium,Monitor regularly
+377,Sales,Sales Representative,34,8,2579,Yes,3,3,52.0,Medium,Reduce overtime; Review compensation
+583,Research & Development,Laboratory Technician,22,1,2935,Yes,2,4,52.0,Medium,Reduce overtime; Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+1285,Sales,Sales Representative,29,3,2800,Yes,3,3,52.0,Medium,Reduce overtime; Review compensation
+454,Research & Development,Healthcare Representative,53,4,7005,No,3,4,52.0,Medium,Monitor regularly
+451,Research & Development,Research Director,49,31,19502,Yes,3,3,52.0,Medium,Reduce overtime
+126,Sales,Sales Executive,32,4,4707,No,3,3,52.0,Medium,Monitor regularly
+1316,Sales,Sales Executive,31,12,5468,No,3,4,52.0,Medium,Consider promotion/career development
+1318,Research & Development,Research Scientist,44,5,2342,Yes,2,2,52.0,Medium,Reduce overtime; Review compensation; Improve work-life balance; Address job satisfaction
+1272,Sales,Sales Executive,35,10,7295,No,3,2,52.0,Medium,Address job satisfaction
+1419,Sales,Sales Executive,30,10,6118,No,3,3,52.0,Medium,Monitor regularly
+1102,Sales,Sales Executive,35,11,8020,No,2,2,52.0,Medium,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+1107,Research & Development,Manufacturing Director,49,7,6804,Yes,3,4,52.0,Medium,Reduce overtime
+1408,Sales,Sales Executive,39,7,8237,No,3,3,52.0,Medium,Consider promotion/career development
+1111,Research & Development,Research Scientist,30,10,2613,No,2,3,51.0,Medium,Review compensation; Improve work-life balance
+21,Research & Development,Research Scientist,24,6,2725,Yes,3,4,51.0,Medium,Reduce overtime; Review compensation
+615,Research & Development,Manufacturing Director,45,9,5906,No,2,4,51.0,Medium,Improve work-life balance
+1426,Research & Development,Manager,53,14,19094,No,2,3,51.0,Medium,Improve work-life balance; Consider promotion/career development
+978,Sales,Sales Executive,34,10,6799,No,3,3,51.0,Medium,Consider promotion/career development
+697,Research & Development,Laboratory Technician,34,8,5429,No,3,3,51.0,Medium,Consider promotion/career development
+357,Sales,Manager,52,34,16856,No,4,1,51.0,Medium,Address job satisfaction
+71,Research & Development,Manufacturing Director,52,5,13247,Yes,2,3,51.0,Medium,Reduce overtime; Improve work-life balance
+555,Research & Development,Research Scientist,32,9,5470,No,2,2,51.0,Medium,Improve work-life balance; Address job satisfaction
+188,Sales,Sales Executive,34,8,6712,No,3,3,51.0,Medium,Monitor regularly
+1209,Research & Development,Manager,50,27,17046,No,3,3,51.0,Medium,Consider promotion/career development
+1220,Research & Development,Manager,50,31,17924,No,3,1,51.0,Medium,Address job satisfaction; Consider promotion/career development
+1035,Sales,Sales Executive,31,7,7547,No,3,4,51.0,Medium,Monitor regularly
+1005,Sales,Sales Executive,33,9,4037,No,3,1,51.0,Medium,Address job satisfaction
+1018,Research & Development,Healthcare Representative,36,7,5237,No,2,3,51.0,Medium,Improve work-life balance; Consider promotion/career development
+1271,Research & Development,Manufacturing Director,29,3,4262,No,4,4,51.0,Medium,Monitor regularly
+1230,Research & Development,Research Director,55,1,19038,No,3,1,51.0,Medium,Address job satisfaction; Enhanced onboarding & mentorship
+1146,Sales,Sales Representative,27,1,2534,No,3,4,51.0,Medium,Review compensation; Enhanced onboarding & mentorship
+241,Research & Development,Research Scientist,34,5,2029,No,3,3,51.0,Medium,Review compensation
+793,Human Resources,Human Resources,39,8,6389,No,1,2,51.0,Medium,Improve work-life balance; Address job satisfaction
+833,Research & Development,Healthcare Representative,45,10,7441,No,3,2,51.0,Medium,Address job satisfaction; Consider promotion/career development
+277,Sales,Manager,53,25,15427,No,3,4,51.0,Medium,Monitor regularly
+831,Research & Development,Manufacturing Director,40,18,10435,No,3,3,51.0,Medium,Consider promotion/career development
+841,Research & Development,Manager,44,2,19513,Yes,4,4,51.0,Medium,Reduce overtime
+250,Research & Development,Manager,60,29,19566,No,1,1,51.0,Medium,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+1141,Research & Development,Healthcare Representative,55,33,13577,Yes,3,2,51.0,Medium,Reduce overtime; Address job satisfaction; Consider promotion/career development
+676,Sales,Sales Executive,38,15,4440,No,3,2,51.0,Medium,Address job satisfaction; Consider promotion/career development
+675,Research & Development,Manager,52,33,19999,No,3,3,51.0,Medium,Consider promotion/career development
+220,Research & Development,Laboratory Technician,24,6,3907,No,4,1,51.0,Medium,Address job satisfaction
+1467,Research & Development,Research Director,50,14,13269,No,3,1,51.0,Medium,Address job satisfaction
+15,Research & Development,Healthcare Representative,31,9,5855,Yes,1,4,51.0,Medium,Reduce overtime; Improve work-life balance; Consider promotion/career development
+415,Sales,Sales Executive,49,9,7654,No,4,4,51.0,Medium,Consider promotion/career development
+416,Research & Development,Laboratory Technician,34,11,4444,No,4,2,51.0,Medium,Address job satisfaction; Consider promotion/career development
+19,Research & Development,Manufacturing Director,25,7,5206,No,3,3,51.0,Medium,Monitor regularly
+32,Research & Development,Laboratory Technician,30,10,3491,No,2,3,51.0,Medium,Improve work-life balance; Consider promotion/career development
+1410,Research & Development,Healthcare Representative,25,6,4000,No,3,1,51.0,Medium,Address job satisfaction
+43,Research & Development,Laboratory Technician,35,5,2426,No,3,2,51.0,Medium,Review compensation; Address job satisfaction
+859,Sales,Sales Executive,33,6,5505,No,3,4,51.0,Medium,Monitor regularly
+482,Research & Development,Healthcare Representative,42,0,5538,No,2,1,51.0,Medium,Improve work-life balance; Address job satisfaction; Enhanced onboarding & mentorship
+272,Research & Development,Research Director,50,27,18740,Yes,2,3,51.0,Medium,Reduce overtime; Improve work-life balance; Consider promotion/career development
+1399,Research & Development,Laboratory Technician,33,14,2028,No,3,2,50.0,Medium,Review compensation; Address job satisfaction
+1375,Research & Development,Manufacturing Director,28,9,7655,No,2,2,50.0,Medium,Improve work-life balance; Address job satisfaction
+46,Research & Development,Healthcare Representative,30,11,4152,No,3,4,50.0,Medium,Consider promotion/career development
+630,Sales,Sales Executive,45,8,5154,No,4,3,50.0,Medium,Consider promotion/career development
+598,Research & Development,Research Director,43,25,14336,No,3,2,50.0,Medium,Address job satisfaction
+725,Research & Development,Healthcare Representative,58,40,10312,No,2,4,50.0,Medium,Improve work-life balance; Consider promotion/career development
+989,Research & Development,Laboratory Technician,49,26,7403,No,2,2,50.0,Medium,Improve work-life balance; Address job satisfaction
+1254,Human Resources,Human Resources,38,11,2592,No,3,2,50.0,Medium,Review compensation; Address job satisfaction
+164,Research & Development,Research Scientist,34,5,2932,Yes,3,4,50.0,Medium,Reduce overtime; Review compensation
+336,Human Resources,Human Resources,42,4,6272,No,4,1,50.0,Medium,Address job satisfaction
+1022,Research & Development,Research Scientist,32,7,5055,No,2,4,50.0,Medium,Improve work-life balance
+207,Research & Development,Research Scientist,46,16,4615,Yes,3,1,50.0,Medium,Reduce overtime; Address job satisfaction
+939,Research & Development,Research Scientist,27,9,2235,Yes,2,1,50.0,Medium,Reduce overtime; Review compensation; Improve work-life balance; Address job satisfaction; Consider promotion/career development
+1000,Research & Development,Laboratory Technician,27,7,4066,No,3,1,50.0,Medium,Address job satisfaction
+1342,Research & Development,Research Scientist,38,4,2610,No,3,3,50.0,Medium,Review compensation
+333,Research & Development,Laboratory Technician,34,4,4404,No,4,3,50.0,Medium,Monitor regularly
+1362,Research & Development,Manufacturing Director,53,4,4450,No,3,1,50.0,Medium,Address job satisfaction
+500,Research & Development,Research Scientist,52,10,5577,Yes,3,1,50.0,Medium,Reduce overtime; Address job satisfaction; Consider promotion/career development
+89,Sales,Sales Executive,46,8,7314,No,3,2,50.0,Medium,Address job satisfaction
+1047,Sales,Sales Executive,35,7,8966,Yes,3,1,50.0,Medium,Reduce overtime; Address job satisfaction
+259,Research & Development,Research Scientist,39,2,3902,No,3,4,50.0,Medium,Monitor regularly
+1062,Research & Development,Research Scientist,34,1,2585,No,2,3,50.0,Medium,Review compensation; Improve work-life balance; Enhanced onboarding & mentorship
+715,Research & Development,Laboratory Technician,40,8,3975,No,4,3,50.0,Medium,Monitor regularly
+721,Human Resources,Manager,51,33,14026,Yes,3,2,50.0,Medium,Reduce overtime; Address job satisfaction
+656,Research & Development,Research Scientist,42,1,2372,Yes,3,2,50.0,Medium,Reduce overtime; Review compensation; Address job satisfaction; Enhanced onboarding & mentorship
+634,Research & Development,Laboratory Technician,26,8,4420,No,3,4,49.0,Medium,Monitor regularly
+617,Research & Development,Manufacturing Director,26,8,5472,No,3,4,49.0,Medium,Monitor regularly
+1340,Research & Development,Research Director,44,20,16328,No,4,1,49.0,Medium,Address job satisfaction; Consider promotion/career development
+42,Research & Development,Healthcare Representative,39,18,9613,No,2,4,49.0,Medium,Improve work-life balance
+950,Research & Development,Research Scientist,33,10,3143,No,3,1,49.0,Medium,Address job satisfaction; Consider promotion/career development
+401,Research & Development,Research Scientist,29,10,2700,No,3,3,49.0,Medium,Review compensation
+148,Research & Development,Research Scientist,32,3,3312,No,3,4,49.0,Medium,Monitor regularly
+448,Research & Development,Research Director,37,10,12185,Yes,3,4,49.0,Medium,Reduce overtime
+1281,Research & Development,Research Director,29,7,16124,No,2,4,49.0,Medium,Improve work-life balance
+560,Research & Development,Research Scientist,23,2,2073,No,3,3,49.0,Medium,Review compensation
+779,Research & Development,Laboratory Technician,30,12,3072,No,3,1,49.0,Medium,Address job satisfaction; Consider promotion/career development
+867,Research & Development,Research Director,53,5,14814,No,3,3,49.0,Medium,Monitor regularly
+834,Research & Development,Healthcare Representative,40,12,6377,No,3,3,49.0,Medium,Consider promotion/career development
+334,Sales,Sales Executive,56,7,13212,No,2,1,49.0,Medium,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+340,Research & Development,Manufacturing Director,39,7,5377,No,3,1,49.0,Medium,Address job satisfaction; Consider promotion/career development
+805,Research & Development,Laboratory Technician,50,20,3221,Yes,3,3,49.0,Medium,Reduce overtime
+658,Sales,Sales Executive,32,8,4668,No,4,4,49.0,Medium,Monitor regularly
+661,Sales,Sales Executive,33,9,8380,Yes,3,3,49.0,Medium,Reduce overtime
+846,Research & Development,Research Scientist,40,9,3319,No,3,4,49.0,Medium,Consider promotion/career development
+288,Sales,Sales Executive,27,6,4647,Yes,3,4,49.0,Medium,Reduce overtime
+769,Research & Development,Manufacturing Director,45,10,5770,No,3,4,49.0,Medium,Monitor regularly
+1216,Research & Development,Manager,47,26,16752,Yes,2,4,49.0,Medium,Reduce overtime; Improve work-life balance
+784,Sales,Sales Executive,36,7,5079,No,3,4,49.0,Medium,Monitor regularly
+372,Research & Development,Research Director,47,13,11957,No,1,2,48.0,Medium,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+1386,Research & Development,Research Scientist,27,3,3517,No,3,3,48.0,Medium,Monitor regularly
+82,Research & Development,Research Scientist,23,3,2819,No,4,1,48.0,Medium,Review compensation; Address job satisfaction
+933,Research & Development,Research Scientist,32,5,5175,No,2,3,48.0,Medium,Improve work-life balance
+599,Research & Development,Research Director,34,14,17007,No,2,1,48.0,Medium,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+16,Research & Development,Research Scientist,38,13,5329,Yes,3,4,48.0,Medium,Reduce overtime
+298,Research & Development,Research Director,55,24,18722,No,3,2,48.0,Medium,Address job satisfaction
+1411,Sales,Sales Executive,30,11,5209,Yes,2,2,48.0,Medium,Reduce overtime; Improve work-life balance; Address job satisfaction
+1304,Sales,Sales Executive,47,22,13770,Yes,2,3,48.0,Medium,Reduce overtime; Improve work-life balance; Consider promotion/career development
+970,Research & Development,Research Scientist,24,5,4401,No,3,3,48.0,Medium,Monitor regularly
+1195,Sales,Manager,43,25,16959,Yes,4,4,48.0,Medium,Reduce overtime; Consider promotion/career development
+222,Research & Development,Research Director,49,4,16413,No,3,2,48.0,Medium,Address job satisfaction
+1001,Human Resources,Manager,55,10,19636,Yes,3,2,48.0,Medium,Reduce overtime; Address job satisfaction
+105,Sales,Sales Executive,46,19,13225,No,3,1,47.0,Medium,Address job satisfaction
+97,Research & Development,Research Scientist,57,12,4900,No,2,3,47.0,Medium,Improve work-life balance
+1446,Research & Development,Research Director,30,8,11416,Yes,2,1,47.0,Medium,Reduce overtime; Improve work-life balance; Address job satisfaction
+1402,Research & Development,Research Scientist,43,5,2645,No,2,3,47.0,Medium,Review compensation; Improve work-life balance
+519,Research & Development,Research Scientist,30,10,5775,No,3,4,47.0,Medium,Monitor regularly
+700,Research & Development,Research Director,50,10,19144,No,2,2,47.0,Medium,Improve work-life balance; Address job satisfaction
+402,Research & Development,Research Scientist,33,9,3055,No,2,2,47.0,Medium,Improve work-life balance; Address job satisfaction
+85,Research & Development,Research Scientist,41,10,3376,No,3,3,47.0,Medium,Monitor regularly
+799,Research & Development,Research Scientist,37,8,3564,Yes,2,1,47.0,Medium,Reduce overtime; Improve work-life balance; Address job satisfaction
+1191,Research & Development,Healthcare Representative,49,8,10466,No,3,2,47.0,Medium,Address job satisfaction
+1086,Research & Development,Research Director,41,21,19973,No,3,3,47.0,Medium,Consider promotion/career development
+1393,Sales,Manager,47,3,15972,No,3,2,46.0,Medium,Address job satisfaction
+711,Sales,Manager,46,26,17567,No,1,1,46.0,Medium,Improve work-life balance; Address job satisfaction
+496,Research & Development,Research Scientist,37,7,5974,Yes,3,1,46.0,Medium,Reduce overtime; Address job satisfaction; Consider promotion/career development
+1282,Sales,Sales Executive,46,24,10453,No,3,1,46.0,Medium,Address job satisfaction; Consider promotion/career development
+382,Research & Development,Research Scientist,45,10,3697,No,3,4,46.0,Medium,Consider promotion/career development
+161,Research & Development,Research Scientist,37,13,4449,Yes,3,3,46.0,Medium,Reduce overtime; Consider promotion/career development
+835,Sales,Sales Executive,32,10,6209,No,4,4,45.0,Medium,Monitor regularly
+691,Sales,Sales Executive,31,7,5460,No,4,4,45.0,Medium,Consider promotion/career development
+609,Research & Development,Research Scientist,43,5,2089,No,4,4,44.0,Medium,Review compensation
+1277,Research & Development,Research Director,47,20,17169,No,4,3,44.0,Medium,Consider promotion/career development
+349,Research & Development,Manager,45,24,19202,No,3,4,44.0,Medium,Monitor regularly
+275,Research & Development,Manager,44,25,19190,No,2,1,43.0,Medium,Improve work-life balance; Address job satisfaction; Consider promotion/career development
+1145,Research & Development,Research Director,55,7,14732,No,4,4,41.0,Medium,Monitor regularly
