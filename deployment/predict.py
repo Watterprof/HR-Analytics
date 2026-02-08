@@ -154,7 +154,7 @@ def main():
     print("\n" + "="*50)
     
     if result['risk_level'] in ['Medium', 'High']:
-        print("\n⚠️  RECOMMENDATION: Consider retention interventions")
+        print("\n  RECOMMENDATION: Consider retention interventions")
         print("   - Review compensation and benefits")
         print("   - Assess work-life balance")
         print("   - Provide career development opportunities")

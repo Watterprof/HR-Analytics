@@ -15,7 +15,7 @@ model = joblib.load('../models/best_model.pkl')
 scaler = joblib.load('../models/scaler.pkl')
 feature_names = joblib.load('../models/feature_names.pkl')
 
-print("✅ Model loaded successfully!\n")
+print("Model loaded successfully!\n")
 
 # Load employee data
 print("Loading employee data...")
@@ -119,7 +119,7 @@ print("EMPLOYEE ATTRITION RISK REPORT")
 print("="*60)
 
 # Overall statistics
-print(f"\n📊 OVERALL STATISTICS:")
+print(f"\n OVERALL STATISTICS:")
 print(f"Total Employees: {len(df)}")
 print(f"High Risk: {len(df[df['RiskLevel'] == 'High'])} ({len(df[df['RiskLevel'] == 'High'])/len(df)*100:.1f}%)")
 print(f"Medium Risk: {len(df[df['RiskLevel'] == 'Medium'])} ({len(df[df['RiskLevel'] == 'Medium'])/len(df)*100:.1f}%)")
@@ -128,7 +128,7 @@ print(f"Low Risk: {len(df[df['RiskLevel'] == 'Low'])} ({len(df[df['RiskLevel'] =
 # High risk employees
 high_risk = df[df['RiskLevel'] == 'High'].sort_values('AttritionProbability', ascending=False)
 
-print(f"\n🚨 HIGH RISK EMPLOYEES (Top 10):")
+print(f"\n HIGH RISK EMPLOYEES (Top 10):")
 print("-" * 60)
 for idx, row in high_risk.head(10).iterrows():
     print(f"\nEmployee ID: {row['EmployeeId']}")
@@ -138,7 +138,7 @@ for idx, row in high_risk.head(10).iterrows():
     print(f"  Recommendations: {row['Recommendations']}")
 
 # Department-level analysis
-print(f"\n📈 RISK BY DEPARTMENT:")
+print(f"\n RISK BY DEPARTMENT:")
 print("-" * 60)
 dept_risk = df.groupby('Department').agg({
     'AttritionProbability': 'mean',
@@ -155,11 +155,11 @@ report_columns = ['EmployeeId', 'Department', 'JobRole', 'Age', 'YearsAtCompany'
 
 df[report_columns].sort_values('AttritionProbability', ascending=False).to_csv(output_file, index=False)
 
-print(f"\n✅ Detailed report saved to: {output_file}")
+print(f"\n Detailed report saved to: {output_file}")
 
 # Generate action plan for HR
 print("\n" + "="*60)
-print("🎯 IMMEDIATE ACTION PLAN FOR HR")
+print("IMMEDIATE ACTION PLAN FOR HR")
 print("="*60)
 
 print("\n1. PRIORITY INTERVENTIONS (High Risk Employees):")
